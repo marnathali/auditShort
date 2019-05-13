@@ -16,24 +16,43 @@
                                 <a class="collapse-link" href="">
                                     <i class="fa fa-chevron-up"></i>
                                 </a>
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                                    <i class="fa fa-wrench"></i>
-                                </a>
-                                <ul class="dropdown-menu dropdown-user">
-                                    <li><a href="#">Config option 1</a>
-                                    </li>
-                                    <li><a href="#">Config option 2</a>
-                                    </li>
-                                </ul>
+
                                 <a class="close-link" href="">
                                     <i class="fa fa-times"></i>
                                 </a>
                             </div>
                         </div>
                         <div class="ibox-content">
-                            <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            </p>
+<% for(var i=0; i<urls[i].length;i++) { %>
+                          <% if(urls[i].preguntas.length>0) { %>
+                            <table class="table table-striped">
+                                <thead>
+                                <tr>
+
+                                    <th>Question</th>
+                                    <th>Answer</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+
+                                <% for(var i=0; i<urls[i].preguntas.length;i++) { %>
+                                    <tr>
+
+                                        <td><%= urls[i].preguntas.question%></td>
+                                        <% if(urls[i].preguntas.answer == NO) { %>
+                                        <td style="color:red"><%= urls[i].preguntas.answer%></td>
+                                        <% } else { %>
+                                            <td style="color:green"><%= urls[i].preguntas.answer%></td>
+                                        <% } %>
+
+                                    </tr>
+                                 <% } %>
+                                </tbody>
+                            </table>
+                            <% } else { %>
+                                <div>No Urls found.</div>
+                            <% } %>
+                          <% } %>
                         </div>
                     </div>
                 </div>
@@ -45,15 +64,7 @@
                                 <a class="collapse-link" href="">
                                     <i class="fa fa-chevron-up"></i>
                                 </a>
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                                    <i class="fa fa-wrench"></i>
-                                </a>
-                                <ul class="dropdown-menu dropdown-user">
-                                    <li><a href="#">Config option 1</a>
-                                    </li>
-                                    <li><a href="#">Config option 2</a>
-                                    </li>
-                                </ul>
+
                                 <a class="close-link" href="">
                                     <i class="fa fa-times"></i>
                                 </a>
@@ -65,17 +76,28 @@
                                 <table class="table table-striped">
                                     <thead>
                                     <tr>
-
+                                        <th># </th>
                                         <th>Url </th>
                                         <th>Status</th>
+                                        <th>Details</th>
                                     </tr>
                                     </thead>
                                     <tbody>
 
                                     <% for(var i=0; i<urls.length;i++) { %>
                                         <tr>
+                                            <td>Nro. <%= i%></td>
                                             <td><%= urls[i].urlcontent%></td>
-                                            <td><%= urls[i].status%></td>
+                                            <% if(urls[i].status == 0) { %>
+                                            <td style="color:red">Sin auditar</td>
+                                            <% } else { %>
+                                                <td style="color:green">Auditado</td>
+                                            <% } %>
+                                            <td>
+                                              <a id ="q_url_"+"<%= urls[i]._id%>"class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                                  <i class="far fa-eye"></i>
+                                              </a>
+                                          </td>
                                         </tr>
                                      <% } %>
                                     </tbody>

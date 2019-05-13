@@ -21,34 +21,11 @@
 </div>
   <!-- FORM DE PREGUNTAS -->
   <div id="textareacontainer" style="width:50%;">
+    
+            <h3>Responde a las siguientes preguntas</h3>
 
-      <div id="questionformwrapper" style="height:450px; width: 100%; padding: 10px;">
+      <div id="questionformwrapper" style="height:450px; width: 100%; padding: 10px; display:none;">
 
-        <h3>Responde a las siguientes preguntas</h3>
-        <form id="codeForm" autocomplete="off">
-              <div class="container-question" style="border: 1px solid skyblue; border-radius: 4px;width: 100%;text-align: center;padding: 5px; margin-top: 10px;">
-                <div class="form-group">
-                    <label for="formGroupExampleInput">
-                        ¿El inventario es el correcto?
-                     </label>
-
-                     <span>1</span>
-                     <span>producto</span>
-                </div>
-                <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                <label class="btn btn-secondary active">
-                  <input value="SI" type="radio" name="options" id="option1" autocomplete="off" checked> Si
-                </label>
-                <label class="btn btn-secondary">
-                  <input value="NO" type="radio" name="options" id="option2" autocomplete="off"> No
-                </label>
-                </div>
-              </div>
-              </form>
-
-
-
-  <!--
             <% if(questions.length>0) { %>
               <% for(var i=0; i<questions.length;i++) { %>
                   <form id="codeForm" autocomplete="off">
@@ -58,8 +35,6 @@
                             <%= questions[i].question%>
                          </label>
 
-                         <span><%= i %></span>
-                         <span><%= questions[i].tipo %></span>
                     </div>
                     <div class="btn-group btn-group-toggle" data-toggle="buttons">
                     <label class="btn btn-secondary active">
@@ -74,9 +49,13 @@
               <% } %>
           <% } else { %>
             <div>No questions found.</div>
-          <% } %> -->
+          <% } %>
 
        </div>
+
+       <div class="One-question">
+
+        </div>
 
   </div>
 
@@ -91,3 +70,8 @@
 
 
 </div>
+
+<script>
+    var preguntas = <% questions%>
+    console.log(preguntas);
+</script>

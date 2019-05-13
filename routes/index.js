@@ -25,7 +25,7 @@ router.get('/audit', function(req, res, next) {
   Question.find({}, (err, questions) =>{
     if (err) return res.status(500).send({message: `Ocurrio un problema`});
     if(!questions) return res.status(404).send({message: `Not found`});
-    res.send(questions);
+    //res.send(questions);
     res.render("pages/main",
       { extractScripts: true,
         extractStyles: true,
@@ -38,14 +38,14 @@ router.get('/audit', function(req, res, next) {
 
 });
 
-/* GET report url.
+/* GET report url.*/
 router.get('/report', function(req, res, next) {
 
   res.render('pages/report', {extractScripts: true,
                                extractStyles: true,
                                title: 'Report AuditProduct'
                             });
-});*/
+});
 
 
 module.exports = router;

@@ -29,13 +29,15 @@ exports.detailsUrl = (req, res) => {
 
 exports.allUrl = (req, res) => {
 
-  url.find({}, (err, urls) =>{
+  Url.find({}, (err, urls) =>{
     if (err) return res.status(500).send({message: `Ocurrio un problema`});
     if(!urls) return res.status(404).send({message: `Not found`});
     //res.send(urls);
-    res.render("../views/pages/report",
+   res.render("../views/pages/report",
       {  layout: '../views/layouts/main',
          title: 'Report',
+         extractScripts: true,
+         extractStyles: true,
          urls: urls
       }
     );
