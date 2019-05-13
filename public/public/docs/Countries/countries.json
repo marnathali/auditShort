@@ -1,0 +1,6898 @@
+[
+  {
+    "currencies":[
+      {
+        "code":"AFN",
+        "name":"Afghan afghani",
+        "symbol":"؋"
+      }
+    ],
+    "flag":"/images/flags/af.svg",
+    "name":"Afghanistan",
+    "alpha2Code":"AF",
+    "alpha3Code":"AFG",
+    "callingCodes":[
+      "93"
+    ],
+    "altSpellings":[
+      "AF",
+      "Afġānistān"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+04:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/ax.svg",
+    "name":"Åland Islands",
+    "alpha2Code":"AX",
+    "alpha3Code":"ALA",
+    "callingCodes":[
+      "358"
+    ],
+    "altSpellings":[
+      "AX",
+      "Aaland",
+      "Aland",
+      "Ahvenanmaa"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ALL",
+        "name":"Albanian lek",
+        "symbol":"L"
+      }
+    ],
+    "flag":"/images/flags/al.svg",
+    "name":"Albania",
+    "alpha2Code":"AL",
+    "alpha3Code":"ALB",
+    "callingCodes":[
+      "355"
+    ],
+    "altSpellings":[
+      "AL",
+      "Shqipëri",
+      "Shqipëria",
+      "Shqipnia"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"DZD",
+        "name":"Algerian dinar",
+        "symbol":"د.ج"
+      }
+    ],
+    "flag":"/images/flags/dz.svg",
+    "name":"Algeria",
+    "alpha2Code":"DZ",
+    "alpha3Code":"DZA",
+    "callingCodes":[
+      "213"
+    ],
+    "altSpellings":[
+      "DZ",
+      "Dzayer",
+      "Algérie"
+    ],
+    "region":"Africa",
+    "subregion":"Northern Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United State Dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/as.svg",
+    "name":"American Samoa",
+    "alpha2Code":"AS",
+    "alpha3Code":"ASM",
+    "callingCodes":[
+      "1684"
+    ],
+    "altSpellings":[
+      "AS",
+      "Amerika Sāmoa",
+      "Amelika Sāmoa",
+      "Sāmoa Amelika"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC-11:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/ad.svg",
+    "name":"Andorra",
+    "alpha2Code":"AD",
+    "alpha3Code":"AND",
+    "callingCodes":[
+      "376"
+    ],
+    "altSpellings":[
+      "AD",
+      "Principality of Andorra",
+      "Principat d'Andorra"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AOA",
+        "name":"Angolan kwanza",
+        "symbol":"Kz"
+      }
+    ],
+    "flag":"/images/flags/ao.svg",
+    "name":"Angola",
+    "alpha2Code":"AO",
+    "alpha3Code":"AGO",
+    "callingCodes":[
+      "244"
+    ],
+    "altSpellings":[
+      "AO",
+      "República de Angola",
+      "ʁɛpublika de an'ɡɔla"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ai.svg",
+    "name":"Anguilla",
+    "alpha2Code":"AI",
+    "alpha3Code":"AIA",
+    "callingCodes":[
+      "1264"
+    ],
+    "altSpellings":[
+      "AI"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/aq.svg",
+    "name":"Antarctica",
+    "alpha2Code":"AQ",
+    "alpha3Code":"ATA",
+    "callingCodes":[
+      "672"
+    ],
+    "altSpellings":[
+
+    ],
+    "region":"Polar",
+    "subregion":"",
+    "timezones":[
+      "UTC-03:00",
+      "UTC+03:00",
+      "UTC+05:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ag.svg",
+    "name":"Antigua and Barbuda",
+    "alpha2Code":"AG",
+    "alpha3Code":"ATG",
+    "callingCodes":[
+      "1268"
+    ],
+    "altSpellings":[
+      "AG"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ARS",
+        "name":"Argentine peso",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ar.svg",
+    "name":"Argentina",
+    "alpha2Code":"AR",
+    "alpha3Code":"ARG",
+    "callingCodes":[
+      "54"
+    ],
+    "altSpellings":[
+      "AR",
+      "Argentine Republic",
+      "República Argentina"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AMD",
+        "name":"Armenian dram"
+      }
+    ],
+    "flag":"/images/flags/am.svg",
+    "name":"Armenia",
+    "alpha2Code":"AM",
+    "alpha3Code":"ARM",
+    "callingCodes":[
+      "374"
+    ],
+    "altSpellings":[
+      "AM",
+      "Hayastan",
+      "Republic of Armenia",
+      "Հայաստանի Հանրապետություն"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AWG",
+        "name":"Aruban florin",
+        "symbol":"ƒ"
+      }
+    ],
+    "flag":"/images/flags/aw.svg",
+    "name":"Aruba",
+    "alpha2Code":"AW",
+    "alpha3Code":"ABW",
+    "callingCodes":[
+      "297"
+    ],
+    "altSpellings":[
+      "AW"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/au.svg",
+    "name":"Australia",
+    "alpha2Code":"AU",
+    "alpha3Code":"AUS",
+    "callingCodes":[
+      "61"
+    ],
+    "altSpellings":[
+      "AU"
+    ],
+    "region":"Oceania",
+    "subregion":"Australia and New Zealand",
+    "timezones":[
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/at.svg",
+    "name":"Austria",
+    "alpha2Code":"AT",
+    "alpha3Code":"AUT",
+    "callingCodes":[
+      "43"
+    ],
+    "altSpellings":[
+      "AT",
+      "Österreich",
+      "Osterreich",
+      "Oesterreich"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AZN",
+        "name":"Azerbaijani manat"
+      }
+    ],
+    "flag":"/images/flags/az.svg",
+    "name":"Azerbaijan",
+    "alpha2Code":"AZ",
+    "alpha3Code":"AZE",
+    "callingCodes":[
+      "994"
+    ],
+    "altSpellings":[
+      "AZ",
+      "Republic of Azerbaijan",
+      "Azərbaycan Respublikası"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BSD",
+        "name":"Bahamian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/bs.svg",
+    "name":"Bahamas",
+    "alpha2Code":"BS",
+    "alpha3Code":"BHS",
+    "callingCodes":[
+      "1242"
+    ],
+    "altSpellings":[
+      "BS",
+      "Commonwealth of the Bahamas"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BHD",
+        "name":"Bahraini dinar",
+        "symbol":".د.ب"
+      }
+    ],
+    "flag":"/images/flags/bh.svg",
+    "name":"Bahrain",
+    "alpha2Code":"BH",
+    "alpha3Code":"BHR",
+    "callingCodes":[
+      "973"
+    ],
+    "altSpellings":[
+      "BH",
+      "Kingdom of Bahrain",
+      "Mamlakat al-Baḥrayn"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BDT",
+        "name":"Bangladeshi taka",
+        "symbol":"৳"
+      }
+    ],
+    "flag":"/images/flags/bd.svg",
+    "name":"Bangladesh",
+    "alpha2Code":"BD",
+    "alpha3Code":"BGD",
+    "callingCodes":[
+      "880"
+    ],
+    "altSpellings":[
+      "BD",
+      "People's Republic of Bangladesh",
+      "Gônôprôjatôntri Bangladesh"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BBD",
+        "name":"Barbadian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/bb.svg",
+    "name":"Barbados",
+    "alpha2Code":"BB",
+    "alpha3Code":"BRB",
+    "callingCodes":[
+      "1246"
+    ],
+    "altSpellings":[
+      "BB"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BYN",
+        "name":"New Belarusian ruble",
+        "symbol":"Br"
+      },
+      {
+        "code":"BYR",
+        "name":"Old Belarusian ruble",
+        "symbol":"Br"
+      }
+    ],
+    "flag":"/images/flags/by.svg",
+    "name":"Belarus",
+    "alpha2Code":"BY",
+    "alpha3Code":"BLR",
+    "callingCodes":[
+      "375"
+    ],
+    "altSpellings":[
+      "BY",
+      "Bielaruś",
+      "Republic of Belarus",
+      "Белоруссия",
+      "Республика Беларусь",
+      "Belorussiya",
+      "Respublika Belarus’"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/be.svg",
+    "name":"Belgium",
+    "alpha2Code":"BE",
+    "alpha3Code":"BEL",
+    "callingCodes":[
+      "32"
+    ],
+    "altSpellings":[
+      "BE",
+      "België",
+      "Belgie",
+      "Belgien",
+      "Belgique",
+      "Kingdom of Belgium",
+      "Koninkrijk België",
+      "Royaume de Belgique",
+      "Königreich Belgien"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BZD",
+        "name":"Belize dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/bz.svg",
+    "name":"Belize",
+    "alpha2Code":"BZ",
+    "alpha3Code":"BLZ",
+    "callingCodes":[
+      "501"
+    ],
+    "altSpellings":[
+      "BZ"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/bj.svg",
+    "name":"Benin",
+    "alpha2Code":"BJ",
+    "alpha3Code":"BEN",
+    "callingCodes":[
+      "229"
+    ],
+    "altSpellings":[
+      "BJ",
+      "Republic of Benin",
+      "République du Bénin"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BMD",
+        "name":"Bermudian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/bm.svg",
+    "name":"Bermuda",
+    "alpha2Code":"BM",
+    "alpha3Code":"BMU",
+    "callingCodes":[
+      "1441"
+    ],
+    "altSpellings":[
+      "BM",
+      "The Islands of Bermuda",
+      "The Bermudas",
+      "Somers Isles"
+    ],
+    "region":"Americas",
+    "subregion":"Northern America",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BTN",
+        "name":"Bhutanese ngultrum",
+        "symbol":"Nu."
+      },
+      {
+        "code":"INR",
+        "name":"Indian rupee",
+        "symbol":"₹"
+      }
+    ],
+    "flag":"/images/flags/bt.svg",
+    "name":"Bhutan",
+    "alpha2Code":"BT",
+    "alpha3Code":"BTN",
+    "callingCodes":[
+      "975"
+    ],
+    "altSpellings":[
+      "BT",
+      "Kingdom of Bhutan"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BOB",
+        "name":"Bolivian boliviano",
+        "symbol":"Bs."
+      }
+    ],
+    "flag":"/images/flags/bo.svg",
+    "name":"Bolivia (Plurinational State of)",
+    "alpha2Code":"BO",
+    "alpha3Code":"BOL",
+    "callingCodes":[
+      "591"
+    ],
+    "altSpellings":[
+      "BO",
+      "Buliwya",
+      "Wuliwya",
+      "Plurinational State of Bolivia",
+      "Estado Plurinacional de Bolivia",
+      "Buliwya Mamallaqta",
+      "Wuliwya Suyu",
+      "Tetã Volívia"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/bq.svg",
+    "name":"Bonaire, Sint Eustatius and Saba",
+    "alpha2Code":"BQ",
+    "alpha3Code":"BES",
+    "callingCodes":[
+      "5997"
+    ],
+    "altSpellings":[
+      "BQ",
+      "Boneiru"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BAM",
+        "name":"Bosnia and Herzegovina convertible mark"
+      }
+    ],
+    "flag":"/images/flags/ba.svg",
+    "name":"Bosnia and Herzegovina",
+    "alpha2Code":"BA",
+    "alpha3Code":"BIH",
+    "callingCodes":[
+      "387"
+    ],
+    "altSpellings":[
+      "BA",
+      "Bosnia-Herzegovina",
+      "Босна и Херцеговина"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BWP",
+        "name":"Botswana pula",
+        "symbol":"P"
+      }
+    ],
+    "flag":"/images/flags/bw.svg",
+    "name":"Botswana",
+    "alpha2Code":"BW",
+    "alpha3Code":"BWA",
+    "callingCodes":[
+      "267"
+    ],
+    "altSpellings":[
+      "BW",
+      "Republic of Botswana",
+      "Lefatshe la Botswana"
+    ],
+    "region":"Africa",
+    "subregion":"Southern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NOK",
+        "name":"Norwegian krone",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/bv.svg",
+    "name":"Bouvet Island",
+    "alpha2Code":"BV",
+    "alpha3Code":"BVT",
+    "callingCodes":[
+      ""
+    ],
+    "altSpellings":[
+      "BV",
+      "Bouvetøya",
+      "Bouvet-øya"
+    ],
+    "region":"Others",
+    "subregion":"",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BRL",
+        "name":"Brazilian real",
+        "symbol":"R$"
+      }
+    ],
+    "flag":"/images/flags/br.svg",
+    "name":"Brazil",
+    "alpha2Code":"BR",
+    "alpha3Code":"BRA",
+    "callingCodes":[
+      "55"
+    ],
+    "altSpellings":[
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/io.svg",
+    "name":"British Indian Ocean Territory",
+    "alpha2Code":"IO",
+    "alpha3Code":"IOT",
+    "callingCodes":[
+      "246"
+    ],
+    "altSpellings":[
+      "IO"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States Dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/um.svg",
+    "name":"United States Minor Outlying Islands",
+    "alpha2Code":"UM",
+    "alpha3Code":"UMI",
+    "callingCodes":[
+      ""
+    ],
+    "altSpellings":[
+      "UM"
+    ],
+    "region":"Americas",
+    "subregion":"Northern America",
+    "timezones":[
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "name":"[D]",
+        "symbol":"$"
+      },
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/vg.svg",
+    "name":"Virgin Islands (British)",
+    "alpha2Code":"VG",
+    "alpha3Code":"VGB",
+    "callingCodes":[
+      "1284"
+    ],
+    "altSpellings":[
+      "VG"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/vi.svg",
+    "name":"Virgin Islands (U.S.)",
+    "alpha2Code":"VI",
+    "alpha3Code":"VIR",
+    "callingCodes":[
+      "1 340"
+    ],
+    "altSpellings":[
+      "VI",
+      "USVI",
+      "American Virgin Islands",
+      "U.S. Virgin Islands"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BND",
+        "name":"Brunei dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"SGD",
+        "name":"Singapore dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/bn.svg",
+    "name":"Brunei Darussalam",
+    "alpha2Code":"BN",
+    "alpha3Code":"BRN",
+    "callingCodes":[
+      "673"
+    ],
+    "altSpellings":[
+      "BN",
+      "Nation of Brunei",
+      " the Abode of Peace"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BGN",
+        "name":"Bulgarian lev",
+        "symbol":"лв"
+      }
+    ],
+    "flag":"/images/flags/bg.svg",
+    "name":"Bulgaria",
+    "alpha2Code":"BG",
+    "alpha3Code":"BGR",
+    "callingCodes":[
+      "359"
+    ],
+    "altSpellings":[
+      "BG",
+      "Republic of Bulgaria",
+      "Република България"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/bf.svg",
+    "name":"Burkina Faso",
+    "alpha2Code":"BF",
+    "alpha3Code":"BFA",
+    "callingCodes":[
+      "226"
+    ],
+    "altSpellings":[
+      "BF"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BIF",
+        "name":"Burundian franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/bi.svg",
+    "name":"Burundi",
+    "alpha2Code":"BI",
+    "alpha3Code":"BDI",
+    "callingCodes":[
+      "257"
+    ],
+    "altSpellings":[
+      "BI",
+      "Republic of Burundi",
+      "Republika y'Uburundi",
+      "République du Burundi"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KHR",
+        "name":"Cambodian riel",
+        "symbol":"៛"
+      },
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/kh.svg",
+    "name":"Cambodia",
+    "alpha2Code":"KH",
+    "alpha3Code":"KHM",
+    "callingCodes":[
+      "855"
+    ],
+    "altSpellings":[
+      "KH",
+      "Kingdom of Cambodia"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+07:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XAF",
+        "name":"Central African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/cm.svg",
+    "name":"Cameroon",
+    "alpha2Code":"CM",
+    "alpha3Code":"CMR",
+    "callingCodes":[
+      "237"
+    ],
+    "altSpellings":[
+      "CM",
+      "Republic of Cameroon",
+      "République du Cameroun"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CAD",
+        "name":"Canadian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ca.svg",
+    "name":"Canada",
+    "alpha2Code":"CA",
+    "alpha3Code":"CAN",
+    "callingCodes":[
+      "1"
+    ],
+    "altSpellings":[
+      "CA"
+    ],
+    "region":"Americas",
+    "subregion":"Northern America",
+    "timezones":[
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CVE",
+        "name":"Cape Verdean escudo",
+        "symbol":"Esc"
+      }
+    ],
+    "flag":"/images/flags/cv.svg",
+    "name":"Cabo Verde",
+    "alpha2Code":"CV",
+    "alpha3Code":"CPV",
+    "callingCodes":[
+      "238"
+    ],
+    "altSpellings":[
+      "CV",
+      "Republic of Cabo Verde",
+      "República de Cabo Verde"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC-01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KYD",
+        "name":"Cayman Islands dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ky.svg",
+    "name":"Cayman Islands",
+    "alpha2Code":"KY",
+    "alpha3Code":"CYM",
+    "callingCodes":[
+      "1345"
+    ],
+    "altSpellings":[
+      "KY"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XAF",
+        "name":"Central African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/cf.svg",
+    "name":"Central African Republic",
+    "alpha2Code":"CF",
+    "alpha3Code":"CAF",
+    "callingCodes":[
+      "236"
+    ],
+    "altSpellings":[
+      "CF",
+      "Central African Republic",
+      "République centrafricaine"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XAF",
+        "name":"Central African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/td.svg",
+    "name":"Chad",
+    "alpha2Code":"TD",
+    "alpha3Code":"TCD",
+    "callingCodes":[
+      "235"
+    ],
+    "altSpellings":[
+      "TD",
+      "Tchad",
+      "Republic of Chad",
+      "République du Tchad"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CLP",
+        "name":"Chilean peso",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/cl.svg",
+    "name":"Chile",
+    "alpha2Code":"CL",
+    "alpha3Code":"CHL",
+    "callingCodes":[
+      "56"
+    ],
+    "altSpellings":[
+      "CL",
+      "Republic of Chile",
+      "República de Chile"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-06:00",
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CNY",
+        "name":"Chinese yuan",
+        "symbol":"¥"
+      }
+    ],
+    "flag":"/images/flags/cn.svg",
+    "name":"China",
+    "alpha2Code":"CN",
+    "alpha3Code":"CHN",
+    "callingCodes":[
+      "86"
+    ],
+    "altSpellings":[
+      "CN",
+      "Zhōngguó",
+      "Zhongguo",
+      "Zhonghua",
+      "People's Republic of China",
+      "中华人民共和国",
+      "Zhōnghuá Rénmín Gònghéguó"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/cx.svg",
+    "name":"Christmas Island",
+    "alpha2Code":"CX",
+    "alpha3Code":"CXR",
+    "callingCodes":[
+      "61"
+    ],
+    "altSpellings":[
+      "CX",
+      "Territory of Christmas Island"
+    ],
+    "region":"Oceania",
+    "subregion":"Australia and New Zealand",
+    "timezones":[
+      "UTC+07:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/cc.svg",
+    "name":"Cocos (Keeling) Islands",
+    "alpha2Code":"CC",
+    "alpha3Code":"CCK",
+    "callingCodes":[
+      "61"
+    ],
+    "altSpellings":[
+      "CC",
+      "Territory of the Cocos (Keeling) Islands",
+      "Keeling Islands"
+    ],
+    "region":"Oceania",
+    "subregion":"Australia and New Zealand",
+    "timezones":[
+      "UTC+06:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"COP",
+        "name":"Colombian peso",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/co.svg",
+    "name":"Colombia",
+    "alpha2Code":"CO",
+    "alpha3Code":"COL",
+    "callingCodes":[
+      "57"
+    ],
+    "altSpellings":[
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KMF",
+        "name":"Comorian franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/km.svg",
+    "name":"Comoros",
+    "alpha2Code":"KM",
+    "alpha3Code":"COM",
+    "callingCodes":[
+      "269"
+    ],
+    "altSpellings":[
+      "KM",
+      "Union of the Comoros",
+      "Union des Comores",
+      "Udzima wa Komori",
+      "al-Ittiḥād al-Qumurī"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XAF",
+        "name":"Central African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/cg.svg",
+    "name":"Congo",
+    "alpha2Code":"CG",
+    "alpha3Code":"COG",
+    "callingCodes":[
+      "242"
+    ],
+    "altSpellings":[
+      "CG",
+      "Congo-Brazzaville"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CDF",
+        "name":"Congolese franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/cd.svg",
+    "name":"Congo (Democratic Republic of the)",
+    "alpha2Code":"CD",
+    "alpha3Code":"COD",
+    "callingCodes":[
+      "243"
+    ],
+    "altSpellings":[
+      "CD",
+      "DR Congo",
+      "Congo-Kinshasa",
+      "DRC"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00",
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NZD",
+        "name":"New Zealand dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"CKD",
+        "name":"Cook Islands dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ck.svg",
+    "name":"Cook Islands",
+    "alpha2Code":"CK",
+    "alpha3Code":"COK",
+    "callingCodes":[
+      "682"
+    ],
+    "altSpellings":[
+      "CK",
+      "Kūki 'Āirani"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC-10:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CRC",
+        "name":"Costa Rican colón",
+        "symbol":"₡"
+      }
+    ],
+    "flag":"/images/flags/cr.svg",
+    "name":"Costa Rica",
+    "alpha2Code":"CR",
+    "alpha3Code":"CRI",
+    "callingCodes":[
+      "506"
+    ],
+    "altSpellings":[
+      "CR",
+      "Republic of Costa Rica",
+      "República de Costa Rica"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"HRK",
+        "name":"Croatian kuna",
+        "symbol":"kn"
+      }
+    ],
+    "flag":"/images/flags/hr.svg",
+    "name":"Croatia",
+    "alpha2Code":"HR",
+    "alpha3Code":"HRV",
+    "callingCodes":[
+      "385"
+    ],
+    "altSpellings":[
+      "HR",
+      "Hrvatska",
+      "Republic of Croatia",
+      "Republika Hrvatska"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CUC",
+        "name":"Cuban convertible peso",
+        "symbol":"$"
+      },
+      {
+        "code":"CUP",
+        "name":"Cuban peso",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/cu.svg",
+    "name":"Cuba",
+    "alpha2Code":"CU",
+    "alpha3Code":"CUB",
+    "callingCodes":[
+      "53"
+    ],
+    "altSpellings":[
+      "CU",
+      "Republic of Cuba",
+      "República de Cuba"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ANG",
+        "name":"Netherlands Antillean guilder",
+        "symbol":"ƒ"
+      }
+    ],
+    "flag":"/images/flags/cw.svg",
+    "name":"Curaçao",
+    "alpha2Code":"CW",
+    "alpha3Code":"CUW",
+    "callingCodes":[
+      "599"
+    ],
+    "altSpellings":[
+      "CW",
+      "Curacao",
+      "Kòrsou",
+      "Country of Curaçao",
+      "Land Curaçao",
+      "Pais Kòrsou"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/cy.svg",
+    "name":"Cyprus",
+    "alpha2Code":"CY",
+    "alpha3Code":"CYP",
+    "callingCodes":[
+      "357"
+    ],
+    "altSpellings":[
+      "CY",
+      "Kýpros",
+      "Kıbrıs",
+      "Republic of Cyprus",
+      "Κυπριακή Δημοκρατία",
+      "Kıbrıs Cumhuriyeti"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CZK",
+        "name":"Czech koruna",
+        "symbol":"Kč"
+      }
+    ],
+    "flag":"/images/flags/cz.svg",
+    "name":"Czech Republic",
+    "alpha2Code":"CZ",
+    "alpha3Code":"CZE",
+    "callingCodes":[
+      "420"
+    ],
+    "altSpellings":[
+      "CZ",
+      "Česká republika",
+      "Česko"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"DKK",
+        "name":"Danish krone",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/dk.svg",
+    "name":"Denmark",
+    "alpha2Code":"DK",
+    "alpha3Code":"DNK",
+    "callingCodes":[
+      "45"
+    ],
+    "altSpellings":[
+      "DK",
+      "Danmark",
+      "Kingdom of Denmark",
+      "Kongeriget Danmark"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC",
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"DJF",
+        "name":"Djiboutian franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/dj.svg",
+    "name":"Djibouti",
+    "alpha2Code":"DJ",
+    "alpha3Code":"DJI",
+    "callingCodes":[
+      "253"
+    ],
+    "altSpellings":[
+      "DJ",
+      "Jabuuti",
+      "Gabuuti",
+      "Republic of Djibouti",
+      "République de Djibouti",
+      "Gabuutih Ummuuno",
+      "Jamhuuriyadda Jabuuti"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/dm.svg",
+    "name":"Dominica",
+    "alpha2Code":"DM",
+    "alpha3Code":"DMA",
+    "callingCodes":[
+      "1767"
+    ],
+    "altSpellings":[
+      "DM",
+      "Dominique",
+      "Wai‘tu kubuli",
+      "Commonwealth of Dominica"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"DOP",
+        "name":"Dominican peso",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/do.svg",
+    "name":"Dominican Republic",
+    "alpha2Code":"DO",
+    "alpha3Code":"DOM",
+    "callingCodes":[
+      "1809",
+      "1829",
+      "1849"
+    ],
+    "altSpellings":[
+      "DO"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ec.svg",
+    "name":"Ecuador",
+    "alpha2Code":"EC",
+    "alpha3Code":"ECU",
+    "callingCodes":[
+      "593"
+    ],
+    "altSpellings":[
+      "EC",
+      "Republic of Ecuador",
+      "República del Ecuador"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-06:00",
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EGP",
+        "name":"Egyptian pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/eg.svg",
+    "name":"Egypt",
+    "alpha2Code":"EG",
+    "alpha3Code":"EGY",
+    "callingCodes":[
+      "20"
+    ],
+    "altSpellings":[
+      "EG",
+      "Arab Republic of Egypt"
+    ],
+    "region":"Africa",
+    "subregion":"Northern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/sv.svg",
+    "name":"El Salvador",
+    "alpha2Code":"SV",
+    "alpha3Code":"SLV",
+    "callingCodes":[
+      "503"
+    ],
+    "altSpellings":[
+      "SV",
+      "Republic of El Salvador",
+      "República de El Salvador"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XAF",
+        "name":"Central African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/gq.svg",
+    "name":"Equatorial Guinea",
+    "alpha2Code":"GQ",
+    "alpha3Code":"GNQ",
+    "callingCodes":[
+      "240"
+    ],
+    "altSpellings":[
+      "GQ",
+      "Republic of Equatorial Guinea",
+      "República de Guinea Ecuatorial",
+      "République de Guinée équatoriale",
+      "República da Guiné Equatorial"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ERN",
+        "name":"Eritrean nakfa",
+        "symbol":"Nfk"
+      }
+    ],
+    "flag":"/images/flags/er.svg",
+    "name":"Eritrea",
+    "alpha2Code":"ER",
+    "alpha3Code":"ERI",
+    "callingCodes":[
+      "291"
+    ],
+    "altSpellings":[
+      "ER",
+      "State of Eritrea",
+      "ሃገረ ኤርትራ",
+      "Dawlat Iritriyá",
+      "ʾErtrā",
+      "Iritriyā",
+      ""
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/ee.svg",
+    "name":"Estonia",
+    "alpha2Code":"EE",
+    "alpha3Code":"EST",
+    "callingCodes":[
+      "372"
+    ],
+    "altSpellings":[
+      "EE",
+      "Eesti",
+      "Republic of Estonia",
+      "Eesti Vabariik"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ETB",
+        "name":"Ethiopian birr",
+        "symbol":"Br"
+      }
+    ],
+    "flag":"/images/flags/et.svg",
+    "name":"Ethiopia",
+    "alpha2Code":"ET",
+    "alpha3Code":"ETH",
+    "callingCodes":[
+      "251"
+    ],
+    "altSpellings":[
+      "ET",
+      "ʾĪtyōṗṗyā",
+      "Federal Democratic Republic of Ethiopia",
+      "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"FKP",
+        "name":"Falkland Islands pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/fk.svg",
+    "name":"Falkland Islands (Malvinas)",
+    "alpha2Code":"FK",
+    "alpha3Code":"FLK",
+    "callingCodes":[
+      "500"
+    ],
+    "altSpellings":[
+      "FK",
+      "Islas Malvinas"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"DKK",
+        "name":"Danish krone",
+        "symbol":"kr"
+      },
+      {
+        "code":"(none)",
+        "name":"Faroese króna",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/fo.svg",
+    "name":"Faroe Islands",
+    "alpha2Code":"FO",
+    "alpha3Code":"FRO",
+    "callingCodes":[
+      "298"
+    ],
+    "altSpellings":[
+      "FO",
+      "Føroyar",
+      "Færøerne"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+00:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"FJD",
+        "name":"Fijian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/fj.svg",
+    "name":"Fiji",
+    "alpha2Code":"FJ",
+    "alpha3Code":"FJI",
+    "callingCodes":[
+      "679"
+    ],
+    "altSpellings":[
+      "FJ",
+      "Viti",
+      "Republic of Fiji",
+      "Matanitu ko Viti",
+      "Fijī Gaṇarājya"
+    ],
+    "region":"Oceania",
+    "subregion":"Melanesia",
+    "timezones":[
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/fi.svg",
+    "name":"Finland",
+    "alpha2Code":"FI",
+    "alpha3Code":"FIN",
+    "callingCodes":[
+      "358"
+    ],
+    "altSpellings":[
+      "FI",
+      "Suomi",
+      "Republic of Finland",
+      "Suomen tasavalta",
+      "Republiken Finland"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/fr.svg",
+    "name":"France",
+    "alpha2Code":"FR",
+    "alpha3Code":"FRA",
+    "callingCodes":[
+      "33"
+    ],
+    "altSpellings":[
+      "FR",
+      "French Republic",
+      "République française"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/gf.svg",
+    "name":"French Guiana",
+    "alpha2Code":"GF",
+    "alpha3Code":"GUF",
+    "callingCodes":[
+      "594"
+    ],
+    "altSpellings":[
+      "GF",
+      "Guiana",
+      "Guyane"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XPF",
+        "name":"CFP franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/pf.svg",
+    "name":"French Polynesia",
+    "alpha2Code":"PF",
+    "alpha3Code":"PYF",
+    "callingCodes":[
+      "689"
+    ],
+    "altSpellings":[
+      "PF",
+      "Polynésie française",
+      "French Polynesia",
+      "Pōrīnetia Farāni"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/tf.svg",
+    "name":"French Southern Territories",
+    "alpha2Code":"TF",
+    "alpha3Code":"ATF",
+    "callingCodes":[
+      ""
+    ],
+    "altSpellings":[
+      "TF"
+    ],
+    "region":"Africa",
+    "subregion":"Southern Africa",
+    "timezones":[
+      "UTC+05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XAF",
+        "name":"Central African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/ga.svg",
+    "name":"Gabon",
+    "alpha2Code":"GA",
+    "alpha3Code":"GAB",
+    "callingCodes":[
+      "241"
+    ],
+    "altSpellings":[
+      "GA",
+      "Gabonese Republic",
+      "République Gabonaise"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GMD",
+        "name":"Gambian dalasi",
+        "symbol":"D"
+      }
+    ],
+    "flag":"/images/flags/gm.svg",
+    "name":"Gambia",
+    "alpha2Code":"GM",
+    "alpha3Code":"GMB",
+    "callingCodes":[
+      "220"
+    ],
+    "altSpellings":[
+      "GM",
+      "Republic of the Gambia"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC+00:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GEL",
+        "name":"Georgian Lari",
+        "symbol":"ლ"
+      }
+    ],
+    "flag":"/images/flags/ge.svg",
+    "name":"Georgia",
+    "alpha2Code":"GE",
+    "alpha3Code":"GEO",
+    "callingCodes":[
+      "995"
+    ],
+    "altSpellings":[
+      "GE",
+      "Sakartvelo"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/de.svg",
+    "name":"Germany",
+    "alpha2Code":"DE",
+    "alpha3Code":"DEU",
+    "callingCodes":[
+      "49"
+    ],
+    "altSpellings":[
+      "DE",
+      "Federal Republic of Germany",
+      "Bundesrepublik Deutschland"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GHS",
+        "name":"Ghanaian cedi",
+        "symbol":"₵"
+      }
+    ],
+    "flag":"/images/flags/gh.svg",
+    "name":"Ghana",
+    "alpha2Code":"GH",
+    "alpha3Code":"GHA",
+    "callingCodes":[
+      "233"
+    ],
+    "altSpellings":[
+      "GH"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GIP",
+        "name":"Gibraltar pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gi.svg",
+    "name":"Gibraltar",
+    "alpha2Code":"GI",
+    "alpha3Code":"GIB",
+    "callingCodes":[
+      "350"
+    ],
+    "altSpellings":[
+      "GI"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/gr.svg",
+    "name":"Greece",
+    "alpha2Code":"GR",
+    "alpha3Code":"GRC",
+    "callingCodes":[
+      "30"
+    ],
+    "altSpellings":[
+      "GR",
+      "Elláda",
+      "Hellenic Republic",
+      "Ελληνική Δημοκρατία"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"DKK",
+        "name":"Danish krone",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/gl.svg",
+    "name":"Greenland",
+    "alpha2Code":"GL",
+    "alpha3Code":"GRL",
+    "callingCodes":[
+      "299"
+    ],
+    "altSpellings":[
+      "GL",
+      "Grønland"
+    ],
+    "region":"Americas",
+    "subregion":"Northern America",
+    "timezones":[
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC+00:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/gd.svg",
+    "name":"Grenada",
+    "alpha2Code":"GD",
+    "alpha3Code":"GRD",
+    "callingCodes":[
+      "1473"
+    ],
+    "altSpellings":[
+      "GD"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/gp.svg",
+    "name":"Guadeloupe",
+    "alpha2Code":"GP",
+    "alpha3Code":"GLP",
+    "callingCodes":[
+      "590"
+    ],
+    "altSpellings":[
+      "GP",
+      "Gwadloup"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/gu.svg",
+    "name":"Guam",
+    "alpha2Code":"GU",
+    "alpha3Code":"GUM",
+    "callingCodes":[
+      "1671"
+    ],
+    "altSpellings":[
+      "GU",
+      "Guåhån"
+    ],
+    "region":"Oceania",
+    "subregion":"Micronesia",
+    "timezones":[
+      "UTC+10:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GTQ",
+        "name":"Guatemalan quetzal",
+        "symbol":"Q"
+      }
+    ],
+    "flag":"/images/flags/gt.svg",
+    "name":"Guatemala",
+    "alpha2Code":"GT",
+    "alpha3Code":"GTM",
+    "callingCodes":[
+      "502"
+    ],
+    "altSpellings":[
+      "GT"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      },
+      {
+        "code":"(none)",
+        "name":"Guernsey pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gg.svg",
+    "name":"Guernsey",
+    "alpha2Code":"GG",
+    "alpha3Code":"GGY",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "GG",
+      "Bailiwick of Guernsey",
+      "Bailliage de Guernesey"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+00:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GNF",
+        "name":"Guinean franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/gn.svg",
+    "name":"Guinea",
+    "alpha2Code":"GN",
+    "alpha3Code":"GIN",
+    "callingCodes":[
+      "224"
+    ],
+    "altSpellings":[
+      "GN",
+      "Republic of Guinea",
+      "République de Guinée"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/gw.svg",
+    "name":"Guinea-Bissau",
+    "alpha2Code":"GW",
+    "alpha3Code":"GNB",
+    "callingCodes":[
+      "245"
+    ],
+    "altSpellings":[
+      "GW",
+      "Republic of Guinea-Bissau",
+      "República da Guiné-Bissau"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GYD",
+        "name":"Guyanese dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/gy.svg",
+    "name":"Guyana",
+    "alpha2Code":"GY",
+    "alpha3Code":"GUY",
+    "callingCodes":[
+      "592"
+    ],
+    "altSpellings":[
+      "GY",
+      "Co-operative Republic of Guyana"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"HTG",
+        "name":"Haitian gourde",
+        "symbol":"G"
+      }
+    ],
+    "flag":"/images/flags/ht.svg",
+    "name":"Haiti",
+    "alpha2Code":"HT",
+    "alpha3Code":"HTI",
+    "callingCodes":[
+      "509"
+    ],
+    "altSpellings":[
+      "HT",
+      "Republic of Haiti",
+      "République d'Haïti",
+      "Repiblik Ayiti"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/hm.svg",
+    "name":"Heard Island and McDonald Islands",
+    "alpha2Code":"HM",
+    "alpha3Code":"HMD",
+    "callingCodes":[
+      ""
+    ],
+    "altSpellings":[
+      "HM"
+    ],
+    "region":"Others",
+    "subregion":"",
+    "timezones":[
+      "UTC+05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/va.svg",
+    "name":"Holy See",
+    "alpha2Code":"VA",
+    "alpha3Code":"VAT",
+    "callingCodes":[
+      "379"
+    ],
+    "altSpellings":[
+      "Sancta Sedes",
+      "Vatican",
+      "The Vatican"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"HNL",
+        "name":"Honduran lempira",
+        "symbol":"L"
+      }
+    ],
+    "flag":"/images/flags/hn.svg",
+    "name":"Honduras",
+    "alpha2Code":"HN",
+    "alpha3Code":"HND",
+    "callingCodes":[
+      "504"
+    ],
+    "altSpellings":[
+      "HN",
+      "Republic of Honduras",
+      "República de Honduras"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"HKD",
+        "name":"Hong Kong dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/hk.svg",
+    "name":"Hong Kong",
+    "alpha2Code":"HK",
+    "alpha3Code":"HKG",
+    "callingCodes":[
+      "852"
+    ],
+    "altSpellings":[
+      "HK",
+      "香港"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"HUF",
+        "name":"Hungarian forint",
+        "symbol":"Ft"
+      }
+    ],
+    "flag":"/images/flags/hu.svg",
+    "name":"Hungary",
+    "alpha2Code":"HU",
+    "alpha3Code":"HUN",
+    "callingCodes":[
+      "36"
+    ],
+    "altSpellings":[
+      "HU"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ISK",
+        "name":"Icelandic króna",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/is.svg",
+    "name":"Iceland",
+    "alpha2Code":"IS",
+    "alpha3Code":"ISL",
+    "callingCodes":[
+      "354"
+    ],
+    "altSpellings":[
+      "IS",
+      "Island",
+      "Republic of Iceland",
+      "Lýðveldið Ísland"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"INR",
+        "name":"Indian rupee",
+        "symbol":"₹"
+      }
+    ],
+    "flag":"/images/flags/in.svg",
+    "name":"India",
+    "alpha2Code":"IN",
+    "alpha3Code":"IND",
+    "callingCodes":[
+      "91"
+    ],
+    "altSpellings":[
+      "IN",
+      "Bhārat",
+      "Republic of India",
+      "Bharat Ganrajya"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+05:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"IDR",
+        "name":"Indonesian rupiah",
+        "symbol":"Rp"
+      }
+    ],
+    "flag":"/images/flags/id.svg",
+    "name":"Indonesia",
+    "alpha2Code":"ID",
+    "alpha3Code":"IDN",
+    "callingCodes":[
+      "62"
+    ],
+    "altSpellings":[
+      "ID",
+      "Republic of Indonesia",
+      "Republik Indonesia"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/ci.svg",
+    "name":"Côte d'Ivoire",
+    "alpha2Code":"CI",
+    "alpha3Code":"CIV",
+    "callingCodes":[
+      "225"
+    ],
+    "altSpellings":[
+      "CI",
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"IRR",
+        "name":"Iranian rial",
+        "symbol":"﷼"
+      }
+    ],
+    "flag":"/images/flags/ir.svg",
+    "name":"Iran (Islamic Republic of)",
+    "alpha2Code":"IR",
+    "alpha3Code":"IRN",
+    "callingCodes":[
+      "98"
+    ],
+    "altSpellings":[
+      "IR",
+      "Islamic Republic of Iran",
+      "Jomhuri-ye Eslāmi-ye Irān"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+03:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"IQD",
+        "name":"Iraqi dinar",
+        "symbol":"ع.د"
+      }
+    ],
+    "flag":"/images/flags/iq.svg",
+    "name":"Iraq",
+    "alpha2Code":"IQ",
+    "alpha3Code":"IRQ",
+    "callingCodes":[
+      "964"
+    ],
+    "altSpellings":[
+      "IQ",
+      "Republic of Iraq",
+      "Jumhūriyyat al-‘Irāq"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/ie.svg",
+    "name":"Ireland",
+    "alpha2Code":"IE",
+    "alpha3Code":"IRL",
+    "callingCodes":[
+      "353"
+    ],
+    "altSpellings":[
+      "IE",
+      "Éire",
+      "Republic of Ireland",
+      "Poblacht na hÉireann"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      },
+      {
+        "code":"IMP[G]",
+        "name":"Manx pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/im.svg",
+    "name":"Isle of Man",
+    "alpha2Code":"IM",
+    "alpha3Code":"IMN",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "IM",
+      "Ellan Vannin",
+      "Mann",
+      "Mannin"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+00:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ILS",
+        "name":"Israeli new shekel",
+        "symbol":"₪"
+      }
+    ],
+    "flag":"/images/flags/il.svg",
+    "name":"Israel",
+    "alpha2Code":"IL",
+    "alpha3Code":"ISR",
+    "callingCodes":[
+      "972"
+    ],
+    "altSpellings":[
+      "IL",
+      "State of Israel",
+      "Medīnat Yisrā'el"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/it.svg",
+    "name":"Italy",
+    "alpha2Code":"IT",
+    "alpha3Code":"ITA",
+    "callingCodes":[
+      "39"
+    ],
+    "altSpellings":[
+      "IT",
+      "Italian Republic",
+      "Repubblica italiana"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"JMD",
+        "name":"Jamaican dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/jm.svg",
+    "name":"Jamaica",
+    "alpha2Code":"JM",
+    "alpha3Code":"JAM",
+    "callingCodes":[
+      "1876"
+    ],
+    "altSpellings":[
+      "JM"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"JPY",
+        "name":"Japanese yen",
+        "symbol":"¥"
+      }
+    ],
+    "flag":"/images/flags/jp.svg",
+    "name":"Japan",
+    "alpha2Code":"JP",
+    "alpha3Code":"JPN",
+    "callingCodes":[
+      "81"
+    ],
+    "altSpellings":[
+      "JP",
+      "Nippon",
+      "Nihon"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+09:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      },
+      {
+        "code":"JEP[G]",
+        "name":"Jersey pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/je.svg",
+    "name":"Jersey",
+    "alpha2Code":"JE",
+    "alpha3Code":"JEY",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "JE",
+      "Bailiwick of Jersey",
+      "Bailliage de Jersey",
+      "Bailliage dé Jèrri"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"JOD",
+        "name":"Jordanian dinar",
+        "symbol":"د.ا"
+      }
+    ],
+    "flag":"/images/flags/jo.svg",
+    "name":"Jordan",
+    "alpha2Code":"JO",
+    "alpha3Code":"JOR",
+    "callingCodes":[
+      "962"
+    ],
+    "altSpellings":[
+      "JO",
+      "Hashemite Kingdom of Jordan",
+      "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KZT",
+        "name":"Kazakhstani tenge"
+      }
+    ],
+    "flag":"/images/flags/kz.svg",
+    "name":"Kazakhstan",
+    "alpha2Code":"KZ",
+    "alpha3Code":"KAZ",
+    "callingCodes":[
+      "76",
+      "77"
+    ],
+    "altSpellings":[
+      "KZ",
+      "Qazaqstan",
+      "Казахстан",
+      "Republic of Kazakhstan",
+      "Қазақстан Республикасы",
+      "Qazaqstan Respublïkası",
+      "Республика Казахстан",
+      "Respublika Kazakhstan"
+    ],
+    "region":"Asia",
+    "subregion":"Central Asia",
+    "timezones":[
+      "UTC+05:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KES",
+        "name":"Kenyan shilling",
+        "symbol":"Sh"
+      }
+    ],
+    "flag":"/images/flags/ke.svg",
+    "name":"Kenya",
+    "alpha2Code":"KE",
+    "alpha3Code":"KEN",
+    "callingCodes":[
+      "254"
+    ],
+    "altSpellings":[
+      "KE",
+      "Republic of Kenya",
+      "Jamhuri ya Kenya"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"(none)",
+        "name":"Kiribati dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ki.svg",
+    "name":"Kiribati",
+    "alpha2Code":"KI",
+    "alpha3Code":"KIR",
+    "callingCodes":[
+      "686"
+    ],
+    "altSpellings":[
+      "KI",
+      "Republic of Kiribati",
+      "Ribaberiki Kiribati"
+    ],
+    "region":"Oceania",
+    "subregion":"Micronesia",
+    "timezones":[
+      "UTC+12:00",
+      "UTC+13:00",
+      "UTC+14:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KWD",
+        "name":"Kuwaiti dinar",
+        "symbol":"د.ك"
+      }
+    ],
+    "flag":"/images/flags/kw.svg",
+    "name":"Kuwait",
+    "alpha2Code":"KW",
+    "alpha3Code":"KWT",
+    "callingCodes":[
+      "965"
+    ],
+    "altSpellings":[
+      "KW",
+      "State of Kuwait",
+      "Dawlat al-Kuwait"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KGS",
+        "name":"Kyrgyzstani som",
+        "symbol":"с"
+      }
+    ],
+    "flag":"/images/flags/kg.svg",
+    "name":"Kyrgyzstan",
+    "alpha2Code":"KG",
+    "alpha3Code":"KGZ",
+    "callingCodes":[
+      "996"
+    ],
+    "altSpellings":[
+      "KG",
+      "Киргизия",
+      "Kyrgyz Republic",
+      "Кыргыз Республикасы",
+      "Kyrgyz Respublikasy"
+    ],
+    "region":"Asia",
+    "subregion":"Central Asia",
+    "timezones":[
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"LAK",
+        "name":"Lao kip",
+        "symbol":"₭"
+      }
+    ],
+    "flag":"/images/flags/la.svg",
+    "name":"Lao People's Democratic Republic",
+    "alpha2Code":"LA",
+    "alpha3Code":"LAO",
+    "callingCodes":[
+      "856"
+    ],
+    "altSpellings":[
+      "LA",
+      "Lao",
+      "Laos",
+      "Lao People's Democratic Republic",
+      "Sathalanalat Paxathipatai Paxaxon Lao"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+07:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/lv.svg",
+    "name":"Latvia",
+    "alpha2Code":"LV",
+    "alpha3Code":"LVA",
+    "callingCodes":[
+      "371"
+    ],
+    "altSpellings":[
+      "LV",
+      "Republic of Latvia",
+      "Latvijas Republika"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"LBP",
+        "name":"Lebanese pound",
+        "symbol":"ل.ل"
+      }
+    ],
+    "flag":"/images/flags/lb.svg",
+    "name":"Lebanon",
+    "alpha2Code":"LB",
+    "alpha3Code":"LBN",
+    "callingCodes":[
+      "961"
+    ],
+    "altSpellings":[
+      "LB",
+      "Lebanese Republic",
+      "Al-Jumhūrīyah Al-Libnānīyah"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"LSL",
+        "name":"Lesotho loti",
+        "symbol":"L"
+      },
+      {
+        "code":"ZAR",
+        "name":"South African rand",
+        "symbol":"R"
+      }
+    ],
+    "flag":"/images/flags/ls.svg",
+    "name":"Lesotho",
+    "alpha2Code":"LS",
+    "alpha3Code":"LSO",
+    "callingCodes":[
+      "266"
+    ],
+    "altSpellings":[
+      "LS",
+      "Kingdom of Lesotho",
+      "Muso oa Lesotho"
+    ],
+    "region":"Africa",
+    "subregion":"Southern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"LRD",
+        "name":"Liberian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/lr.svg",
+    "name":"Liberia",
+    "alpha2Code":"LR",
+    "alpha3Code":"LBR",
+    "callingCodes":[
+      "231"
+    ],
+    "altSpellings":[
+      "LR",
+      "Republic of Liberia"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"LYD",
+        "name":"Libyan dinar",
+        "symbol":"ل.د"
+      }
+    ],
+    "flag":"/images/flags/ly.svg",
+    "name":"Libya",
+    "alpha2Code":"LY",
+    "alpha3Code":"LBY",
+    "callingCodes":[
+      "218"
+    ],
+    "altSpellings":[
+      "LY",
+      "State of Libya",
+      "Dawlat Libya"
+    ],
+    "region":"Africa",
+    "subregion":"Northern Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CHF",
+        "name":"Swiss franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/li.svg",
+    "name":"Liechtenstein",
+    "alpha2Code":"LI",
+    "alpha3Code":"LIE",
+    "callingCodes":[
+      "423"
+    ],
+    "altSpellings":[
+      "LI",
+      "Principality of Liechtenstein",
+      "Fürstentum Liechtenstein"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/lt.svg",
+    "name":"Lithuania",
+    "alpha2Code":"LT",
+    "alpha3Code":"LTU",
+    "callingCodes":[
+      "370"
+    ],
+    "altSpellings":[
+      "LT",
+      "Republic of Lithuania",
+      "Lietuvos Respublika"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/lu.svg",
+    "name":"Luxembourg",
+    "alpha2Code":"LU",
+    "alpha3Code":"LUX",
+    "callingCodes":[
+      "352"
+    ],
+    "altSpellings":[
+      "LU",
+      "Grand Duchy of Luxembourg",
+      "Grand-Duché de Luxembourg",
+      "Großherzogtum Luxemburg",
+      "Groussherzogtum Lëtzebuerg"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MOP",
+        "name":"Macanese pataca",
+        "symbol":"P"
+      }
+    ],
+    "flag":"/images/flags/mo.svg",
+    "name":"Macao",
+    "alpha2Code":"MO",
+    "alpha3Code":"MAC",
+    "callingCodes":[
+      "853"
+    ],
+    "altSpellings":[
+      "MO",
+      "澳门",
+      "Macao Special Administrative Region of the People's Republic of China",
+      "中華人民共和國澳門特別行政區",
+      "Região Administrativa Especial de Macau da República Popular da China"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MKD",
+        "name":"Macedonian denar",
+        "symbol":"ден"
+      }
+    ],
+    "flag":"/images/flags/mk.svg",
+    "name":"Macedonia (the former Yugoslav Republic of)",
+    "alpha2Code":"MK",
+    "alpha3Code":"MKD",
+    "callingCodes":[
+      "389"
+    ],
+    "altSpellings":[
+      "MK",
+      "Republic of Macedonia",
+      "Република Македонија"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MGA",
+        "name":"Malagasy ariary",
+        "symbol":"Ar"
+      }
+    ],
+    "flag":"/images/flags/mg.svg",
+    "name":"Madagascar",
+    "alpha2Code":"MG",
+    "alpha3Code":"MDG",
+    "callingCodes":[
+      "261"
+    ],
+    "altSpellings":[
+      "MG",
+      "Republic of Madagascar",
+      "Repoblikan'i Madagasikara",
+      "République de Madagascar"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MWK",
+        "name":"Malawian kwacha",
+        "symbol":"MK"
+      }
+    ],
+    "flag":"/images/flags/mw.svg",
+    "name":"Malawi",
+    "alpha2Code":"MW",
+    "alpha3Code":"MWI",
+    "callingCodes":[
+      "265"
+    ],
+    "altSpellings":[
+      "MW",
+      "Republic of Malawi"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MYR",
+        "name":"Malaysian ringgit",
+        "symbol":"RM"
+      }
+    ],
+    "flag":"/images/flags/my.svg",
+    "name":"Malaysia",
+    "alpha2Code":"MY",
+    "alpha3Code":"MYS",
+    "callingCodes":[
+      "60"
+    ],
+    "altSpellings":[
+      "MY"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MVR",
+        "name":"Maldivian rufiyaa",
+        "symbol":".ރ"
+      }
+    ],
+    "flag":"/images/flags/mv.svg",
+    "name":"Maldives",
+    "alpha2Code":"MV",
+    "alpha3Code":"MDV",
+    "callingCodes":[
+      "960"
+    ],
+    "altSpellings":[
+      "MV",
+      "Maldive Islands",
+      "Republic of the Maldives",
+      "Dhivehi Raajjeyge Jumhooriyya"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/ml.svg",
+    "name":"Mali",
+    "alpha2Code":"ML",
+    "alpha3Code":"MLI",
+    "callingCodes":[
+      "223"
+    ],
+    "altSpellings":[
+      "ML",
+      "Republic of Mali",
+      "République du Mali"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/mt.svg",
+    "name":"Malta",
+    "alpha2Code":"MT",
+    "alpha3Code":"MLT",
+    "callingCodes":[
+      "356"
+    ],
+    "altSpellings":[
+      "MT",
+      "Republic of Malta",
+      "Repubblika ta' Malta"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/mh.svg",
+    "name":"Marshall Islands",
+    "alpha2Code":"MH",
+    "alpha3Code":"MHL",
+    "callingCodes":[
+      "692"
+    ],
+    "altSpellings":[
+      "MH",
+      "Republic of the Marshall Islands",
+      "Aolepān Aorōkin M̧ajeļ"
+    ],
+    "region":"Oceania",
+    "subregion":"Micronesia",
+    "timezones":[
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/mq.svg",
+    "name":"Martinique",
+    "alpha2Code":"MQ",
+    "alpha3Code":"MTQ",
+    "callingCodes":[
+      "596"
+    ],
+    "altSpellings":[
+      "MQ"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MRO",
+        "name":"Mauritanian ouguiya",
+        "symbol":"UM"
+      }
+    ],
+    "flag":"/images/flags/mr.svg",
+    "name":"Mauritania",
+    "alpha2Code":"MR",
+    "alpha3Code":"MRT",
+    "callingCodes":[
+      "222"
+    ],
+    "altSpellings":[
+      "MR",
+      "Islamic Republic of Mauritania",
+      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MUR",
+        "name":"Mauritian rupee",
+        "symbol":"₨"
+      }
+    ],
+    "flag":"/images/flags/mu.svg",
+    "name":"Mauritius",
+    "alpha2Code":"MU",
+    "alpha3Code":"MUS",
+    "callingCodes":[
+      "230"
+    ],
+    "altSpellings":[
+      "MU",
+      "Republic of Mauritius",
+      "République de Maurice"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/yt.svg",
+    "name":"Mayotte",
+    "alpha2Code":"YT",
+    "alpha3Code":"MYT",
+    "callingCodes":[
+      "262"
+    ],
+    "altSpellings":[
+      "YT",
+      "Department of Mayotte",
+      "Département de Mayotte"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MXN",
+        "name":"Mexican peso",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/mx.svg",
+    "name":"Mexico",
+    "alpha2Code":"MX",
+    "alpha3Code":"MEX",
+    "callingCodes":[
+      "52"
+    ],
+    "altSpellings":[
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "name":"[D]",
+        "symbol":"$"
+      },
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/fm.svg",
+    "name":"Micronesia (Federated States of)",
+    "alpha2Code":"FM",
+    "alpha3Code":"FSM",
+    "callingCodes":[
+      "691"
+    ],
+    "altSpellings":[
+      "FM",
+      "Federated States of Micronesia"
+    ],
+    "region":"Oceania",
+    "subregion":"Micronesia",
+    "timezones":[
+      "UTC+10:00",
+      "UTC+11"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MDL",
+        "name":"Moldovan leu",
+        "symbol":"L"
+      }
+    ],
+    "flag":"/images/flags/md.svg",
+    "name":"Moldova (Republic of)",
+    "alpha2Code":"MD",
+    "alpha3Code":"MDA",
+    "callingCodes":[
+      "373"
+    ],
+    "altSpellings":[
+      "MD",
+      "Republic of Moldova",
+      "Republica Moldova"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/mc.svg",
+    "name":"Monaco",
+    "alpha2Code":"MC",
+    "alpha3Code":"MCO",
+    "callingCodes":[
+      "377"
+    ],
+    "altSpellings":[
+      "MC",
+      "Principality of Monaco",
+      "Principauté de Monaco"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MNT",
+        "name":"Mongolian tögrög",
+        "symbol":"₮"
+      }
+    ],
+    "flag":"/images/flags/mn.svg",
+    "name":"Mongolia",
+    "alpha2Code":"MN",
+    "alpha3Code":"MNG",
+    "callingCodes":[
+      "976"
+    ],
+    "altSpellings":[
+      "MN"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+07:00",
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/me.svg",
+    "name":"Montenegro",
+    "alpha2Code":"ME",
+    "alpha3Code":"MNE",
+    "callingCodes":[
+      "382"
+    ],
+    "altSpellings":[
+      "ME",
+      "Crna Gora"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/ms.svg",
+    "name":"Montserrat",
+    "alpha2Code":"MS",
+    "alpha3Code":"MSR",
+    "callingCodes":[
+      "1664"
+    ],
+    "altSpellings":[
+      "MS"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MAD",
+        "name":"Moroccan dirham",
+        "symbol":"د.م."
+      }
+    ],
+    "flag":"/images/flags/ma.svg",
+    "name":"Morocco",
+    "alpha2Code":"MA",
+    "alpha3Code":"MAR",
+    "callingCodes":[
+      "212"
+    ],
+    "altSpellings":[
+      "MA",
+      "Kingdom of Morocco",
+      "Al-Mamlakah al-Maġribiyah"
+    ],
+    "region":"Africa",
+    "subregion":"Northern Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MZN",
+        "name":"Mozambican metical",
+        "symbol":"MT"
+      }
+    ],
+    "flag":"/images/flags/mz.svg",
+    "name":"Mozambique",
+    "alpha2Code":"MZ",
+    "alpha3Code":"MOZ",
+    "callingCodes":[
+      "258"
+    ],
+    "altSpellings":[
+      "MZ",
+      "Republic of Mozambique",
+      "República de Moçambique"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MMK",
+        "name":"Burmese kyat",
+        "symbol":"Ks"
+      }
+    ],
+    "flag":"/images/flags/mm.svg",
+    "name":"Myanmar",
+    "alpha2Code":"MM",
+    "alpha3Code":"MMR",
+    "callingCodes":[
+      "95"
+    ],
+    "altSpellings":[
+      "MM",
+      "Burma",
+      "Republic of the Union of Myanmar",
+      "Pyidaunzu Thanmăda Myăma Nainngandaw"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+06:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NAD",
+        "name":"Namibian dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"ZAR",
+        "name":"South African rand",
+        "symbol":"R"
+      }
+    ],
+    "flag":"/images/flags/na.svg",
+    "name":"Namibia",
+    "alpha2Code":"NA",
+    "alpha3Code":"NAM",
+    "callingCodes":[
+      "264"
+    ],
+    "altSpellings":[
+      "NA",
+      "Namibië",
+      "Republic of Namibia"
+    ],
+    "region":"Africa",
+    "subregion":"Southern Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"(none)",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/nr.svg",
+    "name":"Nauru",
+    "alpha2Code":"NR",
+    "alpha3Code":"NRU",
+    "callingCodes":[
+      "674"
+    ],
+    "altSpellings":[
+      "NR",
+      "Naoero",
+      "Pleasant Island",
+      "Republic of Nauru",
+      "Ripublik Naoero"
+    ],
+    "region":"Oceania",
+    "subregion":"Micronesia",
+    "timezones":[
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NPR",
+        "name":"Nepalese rupee",
+        "symbol":"₨"
+      }
+    ],
+    "flag":"/images/flags/np.svg",
+    "name":"Nepal",
+    "alpha2Code":"NP",
+    "alpha3Code":"NPL",
+    "callingCodes":[
+      "977"
+    ],
+    "altSpellings":[
+      "NP",
+      "Federal Democratic Republic of Nepal",
+      "Loktāntrik Ganatantra Nepāl"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+05:45"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/nl.svg",
+    "name":"Netherlands",
+    "alpha2Code":"NL",
+    "alpha3Code":"NLD",
+    "callingCodes":[
+      "31"
+    ],
+    "altSpellings":[
+      "NL",
+      "Holland",
+      "Nederland"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC-04:00",
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XPF",
+        "name":"CFP franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/nc.svg",
+    "name":"New Caledonia",
+    "alpha2Code":"NC",
+    "alpha3Code":"NCL",
+    "callingCodes":[
+      "687"
+    ],
+    "altSpellings":[
+      "NC"
+    ],
+    "region":"Oceania",
+    "subregion":"Melanesia",
+    "timezones":[
+      "UTC+11:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NZD",
+        "name":"New Zealand dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/nz.svg",
+    "name":"New Zealand",
+    "alpha2Code":"NZ",
+    "alpha3Code":"NZL",
+    "callingCodes":[
+      "64"
+    ],
+    "altSpellings":[
+      "NZ",
+      "Aotearoa"
+    ],
+    "region":"Oceania",
+    "subregion":"Australia and New Zealand",
+    "timezones":[
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NIO",
+        "name":"Nicaraguan córdoba",
+        "symbol":"C$"
+      }
+    ],
+    "flag":"/images/flags/ni.svg",
+    "name":"Nicaragua",
+    "alpha2Code":"NI",
+    "alpha3Code":"NIC",
+    "callingCodes":[
+      "505"
+    ],
+    "altSpellings":[
+      "NI",
+      "Republic of Nicaragua",
+      "República de Nicaragua"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/ne.svg",
+    "name":"Niger",
+    "alpha2Code":"NE",
+    "alpha3Code":"NER",
+    "callingCodes":[
+      "227"
+    ],
+    "altSpellings":[
+      "NE",
+      "Nijar",
+      "Republic of Niger",
+      "République du Niger"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NGN",
+        "name":"Nigerian naira",
+        "symbol":"₦"
+      }
+    ],
+    "flag":"/images/flags/ng.svg",
+    "name":"Nigeria",
+    "alpha2Code":"NG",
+    "alpha3Code":"NGA",
+    "callingCodes":[
+      "234"
+    ],
+    "altSpellings":[
+      "NG",
+      "Nijeriya",
+      "Naíjíríà",
+      "Federal Republic of Nigeria"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NZD",
+        "name":"New Zealand dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"(none)",
+        "name":"Niue dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/nu.svg",
+    "name":"Niue",
+    "alpha2Code":"NU",
+    "alpha3Code":"NIU",
+    "callingCodes":[
+      "683"
+    ],
+    "altSpellings":[
+      "NU"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC-11:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/nf.svg",
+    "name":"Norfolk Island",
+    "alpha2Code":"NF",
+    "alpha3Code":"NFK",
+    "callingCodes":[
+      "672"
+    ],
+    "altSpellings":[
+      "NF",
+      "Territory of Norfolk Island",
+      "Teratri of Norf'k Ailen"
+    ],
+    "region":"Oceania",
+    "subregion":"Australia and New Zealand",
+    "timezones":[
+      "UTC+11:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KPW",
+        "name":"North Korean won",
+        "symbol":"₩"
+      }
+    ],
+    "flag":"/images/flags/kp.svg",
+    "name":"Korea (Democratic People's Republic of)",
+    "alpha2Code":"KP",
+    "alpha3Code":"PRK",
+    "callingCodes":[
+      "850"
+    ],
+    "altSpellings":[
+      "KP",
+      "Democratic People's Republic of Korea",
+      "조선민주주의인민공화국",
+      "Chosŏn Minjujuŭi Inmin Konghwaguk"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+09:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/mp.svg",
+    "name":"Northern Mariana Islands",
+    "alpha2Code":"MP",
+    "alpha3Code":"MNP",
+    "callingCodes":[
+      "1670"
+    ],
+    "altSpellings":[
+      "MP",
+      "Commonwealth of the Northern Mariana Islands",
+      "Sankattan Siha Na Islas Mariånas"
+    ],
+    "region":"Oceania",
+    "subregion":"Micronesia",
+    "timezones":[
+      "UTC+10:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NOK",
+        "name":"Norwegian krone",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/no.svg",
+    "name":"Norway",
+    "alpha2Code":"NO",
+    "alpha3Code":"NOR",
+    "callingCodes":[
+      "47"
+    ],
+    "altSpellings":[
+      "NO",
+      "Norge",
+      "Noreg",
+      "Kingdom of Norway",
+      "Kongeriket Norge",
+      "Kongeriket Noreg"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"OMR",
+        "name":"Omani rial",
+        "symbol":"ر.ع."
+      }
+    ],
+    "flag":"/images/flags/om.svg",
+    "name":"Oman",
+    "alpha2Code":"OM",
+    "alpha3Code":"OMN",
+    "callingCodes":[
+      "968"
+    ],
+    "altSpellings":[
+      "OM",
+      "Sultanate of Oman",
+      "Salṭanat ʻUmān"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"PKR",
+        "name":"Pakistani rupee",
+        "symbol":"₨"
+      }
+    ],
+    "flag":"/images/flags/pk.svg",
+    "name":"Pakistan",
+    "alpha2Code":"PK",
+    "alpha3Code":"PAK",
+    "callingCodes":[
+      "92"
+    ],
+    "altSpellings":[
+      "PK",
+      "Pākistān",
+      "Islamic Republic of Pakistan",
+      "Islāmī Jumhūriya'eh Pākistān"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"(none)",
+        "name":"[E]",
+        "symbol":"$"
+      },
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/pw.svg",
+    "name":"Palau",
+    "alpha2Code":"PW",
+    "alpha3Code":"PLW",
+    "callingCodes":[
+      "680"
+    ],
+    "altSpellings":[
+      "PW",
+      "Republic of Palau",
+      "Beluu er a Belau"
+    ],
+    "region":"Oceania",
+    "subregion":"Micronesia",
+    "timezones":[
+      "UTC+09:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ILS",
+        "name":"Israeli new sheqel",
+        "symbol":"₪"
+      }
+    ],
+    "flag":"/images/flags/ps.svg",
+    "name":"Palestine, State of",
+    "alpha2Code":"PS",
+    "alpha3Code":"PSE",
+    "callingCodes":[
+      "970"
+    ],
+    "altSpellings":[
+      "PS",
+      "State of Palestine",
+      "Dawlat Filasṭin"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"PAB",
+        "name":"Panamanian balboa",
+        "symbol":"B/."
+      },
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/pa.svg",
+    "name":"Panama",
+    "alpha2Code":"PA",
+    "alpha3Code":"PAN",
+    "callingCodes":[
+      "507"
+    ],
+    "altSpellings":[
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "region":"Americas",
+    "subregion":"Central America",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"PGK",
+        "name":"Papua New Guinean kina",
+        "symbol":"K"
+      }
+    ],
+    "flag":"/images/flags/pg.svg",
+    "name":"Papua New Guinea",
+    "alpha2Code":"PG",
+    "alpha3Code":"PNG",
+    "callingCodes":[
+      "675"
+    ],
+    "altSpellings":[
+      "PG",
+      "Independent State of Papua New Guinea",
+      "Independen Stet bilong Papua Niugini"
+    ],
+    "region":"Oceania",
+    "subregion":"Melanesia",
+    "timezones":[
+      "UTC+10:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"PYG",
+        "name":"Paraguayan guaraní",
+        "symbol":"₲"
+      }
+    ],
+    "flag":"/images/flags/py.svg",
+    "name":"Paraguay",
+    "alpha2Code":"PY",
+    "alpha3Code":"PRY",
+    "callingCodes":[
+      "595"
+    ],
+    "altSpellings":[
+      "PY",
+      "Republic of Paraguay",
+      "República del Paraguay",
+      "Tetã Paraguái"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"PEN",
+        "name":"Peruvian sol",
+        "symbol":"S/."
+      }
+    ],
+    "flag":"/images/flags/pe.svg",
+    "name":"Peru",
+    "alpha2Code":"PE",
+    "alpha3Code":"PER",
+    "callingCodes":[
+      "51"
+    ],
+    "altSpellings":[
+      "PE",
+      "Republic of Peru",
+      " República del Perú"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"PHP",
+        "name":"Philippine peso",
+        "symbol":"₱"
+      }
+    ],
+    "flag":"/images/flags/ph.svg",
+    "name":"Philippines",
+    "alpha2Code":"PH",
+    "alpha3Code":"PHL",
+    "callingCodes":[
+      "63"
+    ],
+    "altSpellings":[
+      "PH",
+      "Republic of the Philippines",
+      "Repúblika ng Pilipinas"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NZD",
+        "name":"New Zealand dollar",
+        "symbol":"$"
+      },
+      {
+        "name":"Pitcairn Islands dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/pn.svg",
+    "name":"Pitcairn",
+    "alpha2Code":"PN",
+    "alpha3Code":"PCN",
+    "callingCodes":[
+      "64"
+    ],
+    "altSpellings":[
+      "PN",
+      "Pitcairn Henderson Ducie and Oeno Islands"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC-08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"PLN",
+        "name":"Polish złoty",
+        "symbol":"zł"
+      }
+    ],
+    "flag":"/images/flags/pl.svg",
+    "name":"Poland",
+    "alpha2Code":"PL",
+    "alpha3Code":"POL",
+    "callingCodes":[
+      "48"
+    ],
+    "altSpellings":[
+      "PL",
+      "Republic of Poland",
+      "Rzeczpospolita Polska"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/pt.svg",
+    "name":"Portugal",
+    "alpha2Code":"PT",
+    "alpha3Code":"PRT",
+    "callingCodes":[
+      "351"
+    ],
+    "altSpellings":[
+      "PT",
+      "Portuguesa",
+      "Portuguese Republic",
+      "República Portuguesa"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC-01:00",
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/pr.svg",
+    "name":"Puerto Rico",
+    "alpha2Code":"PR",
+    "alpha3Code":"PRI",
+    "callingCodes":[
+      "1787",
+      "1939"
+    ],
+    "altSpellings":[
+      "PR",
+      "Commonwealth of Puerto Rico",
+      "Estado Libre Asociado de Puerto Rico"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"QAR",
+        "name":"Qatari riyal",
+        "symbol":"ر.ق"
+      }
+    ],
+    "flag":"/images/flags/qa.svg",
+    "name":"Qatar",
+    "alpha2Code":"QA",
+    "alpha3Code":"QAT",
+    "callingCodes":[
+      "974"
+    ],
+    "altSpellings":[
+      "QA",
+      "State of Qatar",
+      "Dawlat Qaṭar"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/xk.svg",
+    "name":"Republic of Kosovo",
+    "alpha2Code":"XK",
+    "alpha3Code":"KOS",
+    "callingCodes":[
+      "383"
+    ],
+    "altSpellings":[
+      "XK",
+      "Република Косово"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/re.svg",
+    "name":"Réunion",
+    "alpha2Code":"RE",
+    "alpha3Code":"REU",
+    "callingCodes":[
+      "262"
+    ],
+    "altSpellings":[
+      "RE",
+      "Reunion"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"RON",
+        "name":"Romanian leu",
+        "symbol":"lei"
+      }
+    ],
+    "flag":"/images/flags/ro.svg",
+    "name":"Romania",
+    "alpha2Code":"RO",
+    "alpha3Code":"ROU",
+    "callingCodes":[
+      "40"
+    ],
+    "altSpellings":[
+      "RO",
+      "Rumania",
+      "Roumania",
+      "România"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"RUB",
+        "name":"Russian ruble",
+        "symbol":"₽"
+      }
+    ],
+    "flag":"/images/flags/ru.svg",
+    "name":"Russian Federation",
+    "alpha2Code":"RU",
+    "alpha3Code":"RUS",
+    "callingCodes":[
+      "7"
+    ],
+    "altSpellings":[
+      "RU",
+      "Rossiya",
+      "Russian Federation",
+      "Российская Федерация",
+      "Rossiyskaya Federatsiya"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"RWF",
+        "name":"Rwandan franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/rw.svg",
+    "name":"Rwanda",
+    "alpha2Code":"RW",
+    "alpha3Code":"RWA",
+    "callingCodes":[
+      "250"
+    ],
+    "altSpellings":[
+      "RW",
+      "Republic of Rwanda",
+      "Repubulika y'u Rwanda",
+      "République du Rwanda"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/bl.svg",
+    "name":"Saint Barthélemy",
+    "alpha2Code":"BL",
+    "alpha3Code":"BLM",
+    "callingCodes":[
+      "590"
+    ],
+    "altSpellings":[
+      "BL",
+      "St. Barthelemy",
+      "Collectivity of Saint Barthélemy",
+      "Collectivité de Saint-Barthélemy"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SHP",
+        "name":"Saint Helena pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/sh.svg",
+    "name":"Saint Helena, Ascension and Tristan da Cunha",
+    "alpha2Code":"SH",
+    "alpha3Code":"SHN",
+    "callingCodes":[
+      "290"
+    ],
+    "altSpellings":[
+      "SH"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC+00:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/kn.svg",
+    "name":"Saint Kitts and Nevis",
+    "alpha2Code":"KN",
+    "alpha3Code":"KNA",
+    "callingCodes":[
+      "1869"
+    ],
+    "altSpellings":[
+      "KN",
+      "Federation of Saint Christopher and Nevis"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/lc.svg",
+    "name":"Saint Lucia",
+    "alpha2Code":"LC",
+    "alpha3Code":"LCA",
+    "callingCodes":[
+      "1758"
+    ],
+    "altSpellings":[
+      "LC"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/mf.svg",
+    "name":"Saint Martin (French part)",
+    "alpha2Code":"MF",
+    "alpha3Code":"MAF",
+    "callingCodes":[
+      "590"
+    ],
+    "altSpellings":[
+      "MF",
+      "Collectivity of Saint Martin",
+      "Collectivité de Saint-Martin"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/pm.svg",
+    "name":"Saint Pierre and Miquelon",
+    "alpha2Code":"PM",
+    "alpha3Code":"SPM",
+    "callingCodes":[
+      "508"
+    ],
+    "altSpellings":[
+      "PM",
+      "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+    ],
+    "region":"Americas",
+    "subregion":"Northern America",
+    "timezones":[
+      "UTC-03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XCD",
+        "name":"East Caribbean dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/vc.svg",
+    "name":"Saint Vincent and the Grenadines",
+    "alpha2Code":"VC",
+    "alpha3Code":"VCT",
+    "callingCodes":[
+      "1784"
+    ],
+    "altSpellings":[
+      "VC"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"WST",
+        "name":"Samoan tālā",
+        "symbol":"T"
+      }
+    ],
+    "flag":"/images/flags/ws.svg",
+    "name":"Samoa",
+    "alpha2Code":"WS",
+    "alpha3Code":"WSM",
+    "callingCodes":[
+      "685"
+    ],
+    "altSpellings":[
+      "WS",
+      "Independent State of Samoa",
+      "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC+13:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/sm.svg",
+    "name":"San Marino",
+    "alpha2Code":"SM",
+    "alpha3Code":"SMR",
+    "callingCodes":[
+      "378"
+    ],
+    "altSpellings":[
+      "SM",
+      "Republic of San Marino",
+      "Repubblica di San Marino"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"STD",
+        "name":"São Tomé and Príncipe dobra",
+        "symbol":"Db"
+      }
+    ],
+    "flag":"/images/flags/st.svg",
+    "name":"Sao Tome and Principe",
+    "alpha2Code":"ST",
+    "alpha3Code":"STP",
+    "callingCodes":[
+      "239"
+    ],
+    "altSpellings":[
+      "ST",
+      "Democratic Republic of São Tomé and Príncipe",
+      "República Democrática de São Tomé e Príncipe"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SAR",
+        "name":"Saudi riyal",
+        "symbol":"ر.س"
+      }
+    ],
+    "flag":"/images/flags/sa.svg",
+    "name":"Saudi Arabia",
+    "alpha2Code":"SA",
+    "alpha3Code":"SAU",
+    "callingCodes":[
+      "966"
+    ],
+    "altSpellings":[
+      "SA",
+      "Kingdom of Saudi Arabia",
+      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/sn.svg",
+    "name":"Senegal",
+    "alpha2Code":"SN",
+    "alpha3Code":"SEN",
+    "callingCodes":[
+      "221"
+    ],
+    "altSpellings":[
+      "SN",
+      "Republic of Senegal",
+      "République du Sénégal"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"RSD",
+        "name":"Serbian dinar",
+        "symbol":"дин."
+      }
+    ],
+    "flag":"/images/flags/rs.svg",
+    "name":"Serbia",
+    "alpha2Code":"RS",
+    "alpha3Code":"SRB",
+    "callingCodes":[
+      "381"
+    ],
+    "altSpellings":[
+      "RS",
+      "Srbija",
+      "Republic of Serbia",
+      "Република Србија",
+      "Republika Srbija"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SCR",
+        "name":"Seychellois rupee",
+        "symbol":"₨"
+      }
+    ],
+    "flag":"/images/flags/sc.svg",
+    "name":"Seychelles",
+    "alpha2Code":"SC",
+    "alpha3Code":"SYC",
+    "callingCodes":[
+      "248"
+    ],
+    "altSpellings":[
+      "SC",
+      "Republic of Seychelles",
+      "Repiblik Sesel",
+      "République des Seychelles"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SLL",
+        "name":"Sierra Leonean leone",
+        "symbol":"Le"
+      }
+    ],
+    "flag":"/images/flags/sl.svg",
+    "name":"Sierra Leone",
+    "alpha2Code":"SL",
+    "alpha3Code":"SLE",
+    "callingCodes":[
+      "232"
+    ],
+    "altSpellings":[
+      "SL",
+      "Republic of Sierra Leone"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BND",
+        "name":"Brunei dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"SGD",
+        "name":"Singapore dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/sg.svg",
+    "name":"Singapore",
+    "alpha2Code":"SG",
+    "alpha3Code":"SGP",
+    "callingCodes":[
+      "65"
+    ],
+    "altSpellings":[
+      "SG",
+      "Singapura",
+      "Republik Singapura",
+      "新加坡共和国"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ANG",
+        "name":"Netherlands Antillean guilder",
+        "symbol":"ƒ"
+      }
+    ],
+    "flag":"/images/flags/sx.svg",
+    "name":"Sint Maarten (Dutch part)",
+    "alpha2Code":"SX",
+    "alpha3Code":"SXM",
+    "callingCodes":[
+      "1721"
+    ],
+    "altSpellings":[
+      "SX"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/sk.svg",
+    "name":"Slovakia",
+    "alpha2Code":"SK",
+    "alpha3Code":"SVK",
+    "callingCodes":[
+      "421"
+    ],
+    "altSpellings":[
+      "SK",
+      "Slovak Republic",
+      "Slovenská republika"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/si.svg",
+    "name":"Slovenia",
+    "alpha2Code":"SI",
+    "alpha3Code":"SVN",
+    "callingCodes":[
+      "386"
+    ],
+    "altSpellings":[
+      "SI",
+      "Republic of Slovenia",
+      "Republika Slovenija"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SBD",
+        "name":"Solomon Islands dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/sb.svg",
+    "name":"Solomon Islands",
+    "alpha2Code":"SB",
+    "alpha3Code":"SLB",
+    "callingCodes":[
+      "677"
+    ],
+    "altSpellings":[
+      "SB"
+    ],
+    "region":"Oceania",
+    "subregion":"Melanesia",
+    "timezones":[
+      "UTC+11:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SOS",
+        "name":"Somali shilling",
+        "symbol":"Sh"
+      }
+    ],
+    "flag":"/images/flags/so.svg",
+    "name":"Somalia",
+    "alpha2Code":"SO",
+    "alpha3Code":"SOM",
+    "callingCodes":[
+      "252"
+    ],
+    "altSpellings":[
+      "SO",
+      "aṣ-Ṣūmāl",
+      "Federal Republic of Somalia",
+      "Jamhuuriyadda Federaalka Soomaaliya",
+      "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ZAR",
+        "name":"South African rand",
+        "symbol":"R"
+      }
+    ],
+    "flag":"/images/flags/za.svg",
+    "name":"South Africa",
+    "alpha2Code":"ZA",
+    "alpha3Code":"ZAF",
+    "callingCodes":[
+      "27"
+    ],
+    "altSpellings":[
+      "ZA",
+      "RSA",
+      "Suid-Afrika",
+      "Republic of South Africa"
+    ],
+    "region":"Africa",
+    "subregion":"Southern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      },
+      {
+        "code":"(none)",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gs.svg",
+    "name":"South Georgia and the South Sandwich Islands",
+    "alpha2Code":"GS",
+    "alpha3Code":"SGS",
+    "callingCodes":[
+      "500"
+    ],
+    "altSpellings":[
+      "GS",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"KRW",
+        "name":"South Korean won",
+        "symbol":"₩"
+      }
+    ],
+    "flag":"/images/flags/kr.svg",
+    "name":"Korea (Republic of)",
+    "alpha2Code":"KR",
+    "alpha3Code":"KOR",
+    "callingCodes":[
+      "82"
+    ],
+    "altSpellings":[
+      "KR",
+      "Republic of Korea"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+09:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SSP",
+        "name":"South Sudanese pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/ss.svg",
+    "name":"South Sudan",
+    "alpha2Code":"SS",
+    "alpha3Code":"SSD",
+    "callingCodes":[
+      "211"
+    ],
+    "altSpellings":[
+      "SS"
+    ],
+    "region":"Africa",
+    "subregion":"Middle Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      }
+    ],
+    "flag":"/images/flags/es.svg",
+    "name":"Spain",
+    "alpha2Code":"ES",
+    "alpha3Code":"ESP",
+    "callingCodes":[
+      "34"
+    ],
+    "altSpellings":[
+      "ES",
+      "Kingdom of Spain",
+      "Reino de España"
+    ],
+    "region":"Europe",
+    "subregion":"Southern Europe",
+    "timezones":[
+      "UTC",
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"LKR",
+        "name":"Sri Lankan rupee",
+        "symbol":"Rs"
+      }
+    ],
+    "flag":"/images/flags/lk.svg",
+    "name":"Sri Lanka",
+    "alpha2Code":"LK",
+    "alpha3Code":"LKA",
+    "callingCodes":[
+      "94"
+    ],
+    "altSpellings":[
+      "LK",
+      "ilaṅkai",
+      "Democratic Socialist Republic of Sri Lanka"
+    ],
+    "region":"Asia",
+    "subregion":"Southern Asia",
+    "timezones":[
+      "UTC+05:30"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SDG",
+        "name":"Sudanese pound",
+        "symbol":"ج.س."
+      }
+    ],
+    "flag":"/images/flags/sd.svg",
+    "name":"Sudan",
+    "alpha2Code":"SD",
+    "alpha3Code":"SDN",
+    "callingCodes":[
+      "249"
+    ],
+    "altSpellings":[
+      "SD",
+      "Republic of the Sudan",
+      "Jumhūrīyat as-Sūdān"
+    ],
+    "region":"Africa",
+    "subregion":"Northern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SRD",
+        "name":"Surinamese dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/sr.svg",
+    "name":"Suriname",
+    "alpha2Code":"SR",
+    "alpha3Code":"SUR",
+    "callingCodes":[
+      "597"
+    ],
+    "altSpellings":[
+      "SR",
+      "Sarnam",
+      "Sranangron",
+      "Republic of Suriname",
+      "Republiek Suriname"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NOK",
+        "name":"Norwegian krone",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/sj.svg",
+    "name":"Svalbard and Jan Mayen",
+    "alpha2Code":"SJ",
+    "alpha3Code":"SJM",
+    "callingCodes":[
+      "4779"
+    ],
+    "altSpellings":[
+      "SJ",
+      "Svalbard and Jan Mayen Islands"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SZL",
+        "name":"Swazi lilangeni",
+        "symbol":"L"
+      }
+    ],
+    "flag":"/images/flags/sz.svg",
+    "name":"Swaziland",
+    "alpha2Code":"SZ",
+    "alpha3Code":"SWZ",
+    "callingCodes":[
+      "268"
+    ],
+    "altSpellings":[
+      "SZ",
+      "weSwatini",
+      "Swatini",
+      "Ngwane",
+      "Kingdom of Swaziland",
+      "Umbuso waseSwatini"
+    ],
+    "region":"Africa",
+    "subregion":"Southern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SEK",
+        "name":"Swedish krona",
+        "symbol":"kr"
+      }
+    ],
+    "flag":"/images/flags/se.svg",
+    "name":"Sweden",
+    "alpha2Code":"SE",
+    "alpha3Code":"SWE",
+    "callingCodes":[
+      "46"
+    ],
+    "altSpellings":[
+      "SE",
+      "Kingdom of Sweden",
+      "Konungariket Sverige"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"CHF",
+        "name":"Swiss franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/ch.svg",
+    "name":"Switzerland",
+    "alpha2Code":"CH",
+    "alpha3Code":"CHE",
+    "callingCodes":[
+      "41"
+    ],
+    "altSpellings":[
+      "CH",
+      "Swiss Confederation",
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Svizra"
+    ],
+    "region":"Europe",
+    "subregion":"Western Europe",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"SYP",
+        "name":"Syrian pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/sy.svg",
+    "name":"Syrian Arab Republic",
+    "alpha2Code":"SY",
+    "alpha3Code":"SYR",
+    "callingCodes":[
+      "963"
+    ],
+    "altSpellings":[
+      "SY",
+      "Syrian Arab Republic",
+      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TWD",
+        "name":"New Taiwan dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/tw.svg",
+    "name":"Taiwan",
+    "alpha2Code":"TW",
+    "alpha3Code":"TWN",
+    "callingCodes":[
+      "886"
+    ],
+    "altSpellings":[
+      "TW",
+      "Táiwān",
+      "Republic of China",
+      "中華民國",
+      "Zhōnghuá Mínguó"
+    ],
+    "region":"Asia",
+    "subregion":"Eastern Asia",
+    "timezones":[
+      "UTC+08:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TJS",
+        "name":"Tajikistani somoni",
+        "symbol":"ЅМ"
+      }
+    ],
+    "flag":"/images/flags/tj.svg",
+    "name":"Tajikistan",
+    "alpha2Code":"TJ",
+    "alpha3Code":"TJK",
+    "callingCodes":[
+      "992"
+    ],
+    "altSpellings":[
+      "TJ",
+      "Toçikiston",
+      "Republic of Tajikistan",
+      "Ҷумҳурии Тоҷикистон",
+      "Çumhuriyi Toçikiston"
+    ],
+    "region":"Asia",
+    "subregion":"Central Asia",
+    "timezones":[
+      "UTC+05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TZS",
+        "name":"Tanzanian shilling",
+        "symbol":"Sh"
+      }
+    ],
+    "flag":"/images/flags/tz.svg",
+    "name":"Tanzania, United Republic of",
+    "alpha2Code":"TZ",
+    "alpha3Code":"TZA",
+    "callingCodes":[
+      "255"
+    ],
+    "altSpellings":[
+      "TZ",
+      "United Republic of Tanzania",
+      "Jamhuri ya Muungano wa Tanzania"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"THB",
+        "name":"Thai baht",
+        "symbol":"฿"
+      }
+    ],
+    "flag":"/images/flags/th.svg",
+    "name":"Thailand",
+    "alpha2Code":"TH",
+    "alpha3Code":"THA",
+    "callingCodes":[
+      "66"
+    ],
+    "altSpellings":[
+      "TH",
+      "Prathet",
+      "Thai",
+      "Kingdom of Thailand",
+      "ราชอาณาจักรไทย",
+      "Ratcha Anachak Thai"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+07:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      },
+      {
+
+      }
+    ],
+    "flag":"/images/flags/tl.svg",
+    "name":"Timor-Leste",
+    "alpha2Code":"TL",
+    "alpha3Code":"TLS",
+    "callingCodes":[
+      "670"
+    ],
+    "altSpellings":[
+      "TL",
+      "East Timor",
+      "Democratic Republic of Timor-Leste",
+      "República Democrática de Timor-Leste",
+      "Repúblika Demokrátika Timór-Leste"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+09:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XOF",
+        "name":"West African CFA franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/tg.svg",
+    "name":"Togo",
+    "alpha2Code":"TG",
+    "alpha3Code":"TGO",
+    "callingCodes":[
+      "228"
+    ],
+    "altSpellings":[
+      "TG",
+      "Togolese",
+      "Togolese Republic",
+      "République Togolaise"
+    ],
+    "region":"Africa",
+    "subregion":"Western Africa",
+    "timezones":[
+      "UTC"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"NZD",
+        "name":"New Zealand dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/tk.svg",
+    "name":"Tokelau",
+    "alpha2Code":"TK",
+    "alpha3Code":"TKL",
+    "callingCodes":[
+      "690"
+    ],
+    "altSpellings":[
+      "TK"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC+13:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TOP",
+        "name":"Tongan paʻanga",
+        "symbol":"T$"
+      }
+    ],
+    "flag":"/images/flags/to.svg",
+    "name":"Tonga",
+    "alpha2Code":"TO",
+    "alpha3Code":"TON",
+    "callingCodes":[
+      "676"
+    ],
+    "altSpellings":[
+      "TO"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC+13:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TTD",
+        "name":"Trinidad and Tobago dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/tt.svg",
+    "name":"Trinidad and Tobago",
+    "alpha2Code":"TT",
+    "alpha3Code":"TTO",
+    "callingCodes":[
+      "1868"
+    ],
+    "altSpellings":[
+      "TT",
+      "Republic of Trinidad and Tobago"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TND",
+        "name":"Tunisian dinar",
+        "symbol":"د.ت"
+      }
+    ],
+    "flag":"/images/flags/tn.svg",
+    "name":"Tunisia",
+    "alpha2Code":"TN",
+    "alpha3Code":"TUN",
+    "callingCodes":[
+      "216"
+    ],
+    "altSpellings":[
+      "TN",
+      "Republic of Tunisia",
+      "al-Jumhūriyyah at-Tūnisiyyah"
+    ],
+    "region":"Africa",
+    "subregion":"Northern Africa",
+    "timezones":[
+      "UTC+01:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TRY",
+        "name":"Turkish lira"
+      }
+    ],
+    "flag":"/images/flags/tr.svg",
+    "name":"Turkey",
+    "alpha2Code":"TR",
+    "alpha3Code":"TUR",
+    "callingCodes":[
+      "90"
+    ],
+    "altSpellings":[
+      "TR",
+      "Turkiye",
+      "Republic of Turkey",
+      "Türkiye Cumhuriyeti"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"TMT",
+        "name":"Turkmenistan manat",
+        "symbol":"m"
+      }
+    ],
+    "flag":"/images/flags/tm.svg",
+    "name":"Turkmenistan",
+    "alpha2Code":"TM",
+    "alpha3Code":"TKM",
+    "callingCodes":[
+      "993"
+    ],
+    "altSpellings":[
+      "TM"
+    ],
+    "region":"Asia",
+    "subregion":"Central Asia",
+    "timezones":[
+      "UTC+05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/tc.svg",
+    "name":"Turks and Caicos Islands",
+    "alpha2Code":"TC",
+    "alpha3Code":"TCA",
+    "callingCodes":[
+      "1649"
+    ],
+    "altSpellings":[
+      "TC"
+    ],
+    "region":"Americas",
+    "subregion":"Caribbean",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AUD",
+        "name":"Australian dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"TVD[G]",
+        "name":"Tuvaluan dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/tv.svg",
+    "name":"Tuvalu",
+    "alpha2Code":"TV",
+    "alpha3Code":"TUV",
+    "callingCodes":[
+      "688"
+    ],
+    "altSpellings":[
+      "TV"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"UGX",
+        "name":"Ugandan shilling",
+        "symbol":"Sh"
+      }
+    ],
+    "flag":"/images/flags/ug.svg",
+    "name":"Uganda",
+    "alpha2Code":"UG",
+    "alpha3Code":"UGA",
+    "callingCodes":[
+      "256"
+    ],
+    "altSpellings":[
+      "UG",
+      "Republic of Uganda",
+      "Jamhuri ya Uganda"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"UAH",
+        "name":"Ukrainian hryvnia",
+        "symbol":"₴"
+      }
+    ],
+    "flag":"/images/flags/ua.svg",
+    "name":"Ukraine",
+    "alpha2Code":"UA",
+    "alpha3Code":"UKR",
+    "callingCodes":[
+      "380"
+    ],
+    "altSpellings":[
+      "UA",
+      "Ukrayina"
+    ],
+    "region":"Europe",
+    "subregion":"Eastern Europe",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"AED",
+        "name":"United Arab Emirates dirham",
+        "symbol":"د.إ"
+      }
+    ],
+    "flag":"/images/flags/ae.svg",
+    "name":"United Arab Emirates",
+    "alpha2Code":"AE",
+    "alpha3Code":"ARE",
+    "callingCodes":[
+      "971"
+    ],
+    "altSpellings":[
+      "AE",
+      "UAE"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+04"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gb.svg",
+    "name":"United Kingdom of Great Britain",
+    "alpha2Code":"GB",
+    "alpha3Code":"GBR",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "GB",
+      "UK",
+      "Great Britain"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gb-eng.svg",
+    "name":"England",
+    "alpha2Code":"GB-ENG",
+    "alpha3Code":"GBR-ENG",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "GB-ENG",
+      "UK",
+      "England"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gb-sct.svg",
+    "name":"Scotland",
+    "alpha2Code":"GB-SCT",
+    "alpha3Code":"GBR-SCT",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "GB-SCT",
+      "UK",
+      "Scotland"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gb-nir.svg",
+    "name":"Northern Ireland",
+    "alpha2Code":"GB-NIR",
+    "alpha3Code":"GBR-NIR",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "GB-NIR",
+      "UK",
+      "Northern Ireland"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      }
+    ],
+    "flag":"/images/flags/gb-wls.svg",
+    "name":"Wales",
+    "alpha2Code":"GB-WLS",
+    "alpha3Code":"GBR-WLS",
+    "callingCodes":[
+      "44"
+    ],
+    "altSpellings":[
+      "GB-WLS",
+      "UK",
+      "Wales"
+    ],
+    "region":"Europe",
+    "subregion":"Northern Europe",
+    "timezones":[
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/us.svg",
+    "name":"United States of America",
+    "alpha2Code":"US",
+    "alpha3Code":"USA",
+    "callingCodes":[
+      "1"
+    ],
+    "altSpellings":[
+      "US",
+      "USA",
+      "United States of America"
+    ],
+    "region":"Americas",
+    "subregion":"Northern America",
+    "timezones":[
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"UYU",
+        "name":"Uruguayan peso",
+        "symbol":"$"
+      }
+    ],
+    "flag":"/images/flags/uy.svg",
+    "name":"Uruguay",
+    "alpha2Code":"UY",
+    "alpha3Code":"URY",
+    "callingCodes":[
+      "598"
+    ],
+    "altSpellings":[
+      "UY",
+      "Oriental Republic of Uruguay",
+      "República Oriental del Uruguay"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"UZS",
+        "name":"Uzbekistani so'm"
+      }
+    ],
+    "flag":"/images/flags/uz.svg",
+    "name":"Uzbekistan",
+    "alpha2Code":"UZ",
+    "alpha3Code":"UZB",
+    "callingCodes":[
+      "998"
+    ],
+    "altSpellings":[
+      "UZ",
+      "Republic of Uzbekistan",
+      "O‘zbekiston Respublikasi",
+      "Ўзбекистон Республикаси"
+    ],
+    "region":"Asia",
+    "subregion":"Central Asia",
+    "timezones":[
+      "UTC+05:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"VUV",
+        "name":"Vanuatu vatu",
+        "symbol":"Vt"
+      }
+    ],
+    "flag":"/images/flags/vu.svg",
+    "name":"Vanuatu",
+    "alpha2Code":"VU",
+    "alpha3Code":"VUT",
+    "callingCodes":[
+      "678"
+    ],
+    "altSpellings":[
+      "VU",
+      "Republic of Vanuatu",
+      "Ripablik blong Vanuatu",
+      "République de Vanuatu"
+    ],
+    "region":"Oceania",
+    "subregion":"Melanesia",
+    "timezones":[
+      "UTC+11:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"VEF",
+        "name":"Venezuelan bolívar",
+        "symbol":"Bs F"
+      }
+    ],
+    "flag":"/images/flags/ve.svg",
+    "name":"Venezuela (Bolivarian Republic of)",
+    "alpha2Code":"VE",
+    "alpha3Code":"VEN",
+    "callingCodes":[
+      "58"
+    ],
+    "altSpellings":[
+      "VE",
+      "Bolivarian Republic of Venezuela",
+      "República Bolivariana de Venezuela"
+    ],
+    "region":"Americas",
+    "subregion":"South America",
+    "timezones":[
+      "UTC-04:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"VND",
+        "name":"Vietnamese đồng",
+        "symbol":"₫"
+      }
+    ],
+    "flag":"/images/flags/vn.svg",
+    "name":"Viet Nam",
+    "alpha2Code":"VN",
+    "alpha3Code":"VNM",
+    "callingCodes":[
+      "84"
+    ],
+    "altSpellings":[
+      "VN",
+      "Socialist Republic of Vietnam",
+      "Cộng hòa Xã hội chủ nghĩa Việt Nam"
+    ],
+    "region":"Asia",
+    "subregion":"South-Eastern Asia",
+    "timezones":[
+      "UTC+07:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"XPF",
+        "name":"CFP franc",
+        "symbol":"Fr"
+      }
+    ],
+    "flag":"/images/flags/wf.svg",
+    "name":"Wallis and Futuna",
+    "alpha2Code":"WF",
+    "alpha3Code":"WLF",
+    "callingCodes":[
+      "681"
+    ],
+    "altSpellings":[
+      "WF",
+      "Territory of the Wallis and Futuna Islands",
+      "Territoire des îles Wallis et Futuna"
+    ],
+    "region":"Oceania",
+    "subregion":"Polynesia",
+    "timezones":[
+      "UTC+12:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"MAD",
+        "name":"Moroccan dirham",
+        "symbol":"د.م."
+      },
+      {
+        "code":"DZD",
+        "name":"Algerian dinar",
+        "symbol":"د.ج"
+      }
+    ],
+    "flag":"/images/flags/eh.svg",
+    "name":"Western Sahara",
+    "alpha2Code":"EH",
+    "alpha3Code":"ESH",
+    "callingCodes":[
+      "212"
+    ],
+    "altSpellings":[
+      "EH",
+      "Taneẓroft Tutrimt"
+    ],
+    "region":"Africa",
+    "subregion":"Northern Africa",
+    "timezones":[
+      "UTC+00:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"YER",
+        "name":"Yemeni rial",
+        "symbol":"﷼"
+      }
+    ],
+    "flag":"/images/flags/ye.svg",
+    "name":"Yemen",
+    "alpha2Code":"YE",
+    "alpha3Code":"YEM",
+    "callingCodes":[
+      "967"
+    ],
+    "altSpellings":[
+      "YE",
+      "Yemeni Republic",
+      "al-Jumhūriyyah al-Yamaniyyah"
+    ],
+    "region":"Asia",
+    "subregion":"Western Asia",
+    "timezones":[
+      "UTC+03:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"ZMW",
+        "name":"Zambian kwacha",
+        "symbol":"ZK"
+      }
+    ],
+    "flag":"/images/flags/zm.svg",
+    "name":"Zambia",
+    "alpha2Code":"ZM",
+    "alpha3Code":"ZMB",
+    "callingCodes":[
+      "260"
+    ],
+    "altSpellings":[
+      "ZM",
+      "Republic of Zambia"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  },
+  {
+    "currencies":[
+      {
+        "code":"BWP",
+        "name":"Botswana pula",
+        "symbol":"P"
+      },
+      {
+        "code":"GBP",
+        "name":"British pound",
+        "symbol":"£"
+      },
+      {
+        "code":"CNY",
+        "name":"Chinese yuan",
+        "symbol":"¥"
+      },
+      {
+        "code":"EUR",
+        "name":"Euro",
+        "symbol":"€"
+      },
+      {
+        "code":"INR",
+        "name":"Indian rupee",
+        "symbol":"₹"
+      },
+      {
+        "code":"JPY",
+        "name":"Japanese yen",
+        "symbol":"¥"
+      },
+      {
+        "code":"ZAR",
+        "name":"South African rand",
+        "symbol":"Rs"
+      },
+      {
+        "code":"USD",
+        "name":"United States dollar",
+        "symbol":"$"
+      },
+      {
+        "code":"(none)"
+      }
+    ],
+    "flag":"/images/flags/zw.svg",
+    "name":"Zimbabwe",
+    "alpha2Code":"ZW",
+    "alpha3Code":"ZWE",
+    "callingCodes":[
+      "263"
+    ],
+    "altSpellings":[
+      "ZW",
+      "Republic of Zimbabwe"
+    ],
+    "region":"Africa",
+    "subregion":"Eastern Africa",
+    "timezones":[
+      "UTC+02:00"
+    ]
+  }
+]

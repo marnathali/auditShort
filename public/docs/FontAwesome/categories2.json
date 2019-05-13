@@ -1,0 +1,1309 @@
+[
+  {
+    "icons": [
+      "accessible-icon",
+      "american-sign-language-interpreting",
+      "assistive-listening-systems",
+      "audio-description",
+      "blind",
+      "braille",
+      "closed-captioning",
+      "deaf",
+      "low-vision",
+      "phone-volume",
+      "question-circle",
+      "sign-language",
+      "tty",
+      "universal-access",
+      "wheelchair"
+    ],
+    "label": "Accessibility"
+  },
+  {
+    "icons": [
+      "bell",
+      "bell-slash",
+      "exclamation",
+      "exclamation-circle",
+      "exclamation-triangle",
+      "radiation",
+      "radiation-alt",
+      "skull-crossbones"
+    ],
+    "label": "Alert"
+  },
+  {
+    "icons": [
+      "cat",
+      "crow",
+      "dog",
+      "dove",
+      "dragon",
+      "feather",
+      "feather-alt",
+      "fish",
+      "frog",
+      "hippo",
+      "horse",
+      "horse-head",
+      "kiwi-bird",
+      "otter",
+      "paw",
+      "spider"
+    ],
+    "label": "Animals"
+  },
+  {
+    "icons": [
+      "angle-double-down",
+      "angle-double-left",
+      "angle-double-right",
+      "angle-double-up",
+      "angle-down",
+      "angle-left",
+      "angle-right",
+      "angle-up",
+      "arrow-alt-circle-down",
+      "arrow-alt-circle-left",
+      "arrow-alt-circle-right",
+      "arrow-alt-circle-up",
+      "arrow-circle-down",
+      "arrow-circle-left",
+      "arrow-circle-right",
+      "arrow-circle-up",
+      "arrow-down",
+      "arrow-left",
+      "arrow-right",
+      "arrow-up",
+      "arrows-alt",
+      "arrows-alt-h",
+      "arrows-alt-v",
+      "caret-down",
+      "caret-left",
+      "caret-right",
+      "caret-square-down",
+      "caret-square-left",
+      "caret-square-right",
+      "caret-square-up",
+      "caret-up",
+      "cart-arrow-down",
+      "chart-line",
+      "chevron-circle-down",
+      "chevron-circle-left",
+      "chevron-circle-right",
+      "chevron-circle-up",
+      "chevron-down",
+      "chevron-left",
+      "chevron-right",
+      "chevron-up",
+      "cloud-download-alt",
+      "cloud-upload-alt",
+      "compress-arrows-alt",
+      "download",
+      "exchange-alt",
+      "expand-arrows-alt",
+      "external-link-alt",
+      "external-link-square-alt",
+      "hand-point-down",
+      "hand-point-left",
+      "hand-point-right",
+      "hand-point-up",
+      "hand-pointer",
+      "history",
+      "level-down-alt",
+      "level-up-alt",
+      "location-arrow",
+      "long-arrow-alt-down",
+      "long-arrow-alt-left",
+      "long-arrow-alt-right",
+      "long-arrow-alt-up",
+      "mouse-pointer",
+      "play",
+      "random",
+      "recycle",
+      "redo",
+      "redo-alt",
+      "reply",
+      "reply-all",
+      "retweet",
+      "share",
+      "share-square",
+      "sign-in-alt",
+      "sign-out-alt",
+      "sort",
+      "sort-alpha-down",
+      "sort-alpha-up",
+      "sort-amount-down",
+      "sort-amount-up",
+      "sort-down",
+      "sort-numeric-down",
+      "sort-numeric-up",
+      "sort-up",
+      "sync",
+      "sync-alt",
+      "text-height",
+      "text-width",
+      "undo",
+      "undo-alt",
+      "upload"
+    ],
+    "label": "Arrows"
+  },
+  {
+    "icons": [
+      "backward",
+      "broadcast-tower",
+      "circle",
+      "compress",
+      "eject",
+      "expand",
+      "fast-backward",
+      "fast-forward",
+      "file-audio",
+      "file-video",
+      "film",
+      "forward",
+      "headphones",
+      "microphone",
+      "microphone-alt",
+      "microphone-alt-slash",
+      "microphone-slash",
+      "music",
+      "pause",
+      "pause-circle",
+      "play-circle",
+      "podcast",
+      "rss",
+      "rss-square",
+      "step-backward",
+      "step-forward",
+      "stop",
+      "stop-circle",
+      "video",
+      "volume-down",
+      "volume-mute",
+      "volume-off",
+      "volume-up",
+      "youtube"
+    ],
+    "label": "Audio & Video"
+  },
+  {
+    "icons": [
+      "air-freshener",
+      "ambulance",
+      "bus",
+      "bus-alt",
+      "car",
+      "car-alt",
+      "car-battery",
+      "car-crash",
+      "car-side",
+      "charging-station",
+      "gas-pump",
+      "motorcycle",
+      "oil-can",
+      "shuttle-van",
+      "tachometer-alt",
+      "taxi",
+      "truck",
+      "truck-monster",
+      "truck-pickup"
+    ],
+    "label": "Automotive"
+  },
+  {
+    "icons": [
+      "apple-alt",
+      "campground",
+      "cloud-sun",
+      "drumstick-bite",
+      "football-ball",
+      "hiking",
+      "mountain",
+      "tractor",
+      "tree",
+      "wind",
+      "wine-bottle"
+    ],
+    "label": "Autumn"
+  },
+  {
+    "icons": [
+      "beer",
+      "blender",
+      "cocktail",
+      "coffee",
+      "flask",
+      "glass-cheers",
+      "glass-martini",
+      "glass-martini-alt",
+      "glass-whiskey",
+      "mug-hot",
+      "wine-glass",
+      "wine-glass-alt"
+    ],
+    "label": "Beverage"
+  },
+  {
+    "icons": [
+      "archway",
+      "building",
+      "church",
+      "city",
+      "clinic-medical",
+      "dungeon",
+      "gopuram",
+      "home",
+      "hospital",
+      "hospital-alt",
+      "hotel",
+      "house-damage",
+      "igloo",
+      "industry",
+      "kaaba",
+      "landmark",
+      "monument",
+      "mosque",
+      "place-of-worship",
+      "school",
+      "store",
+      "store-alt",
+      "synagogue",
+      "torii-gate",
+      "university",
+      "vihara",
+      "warehouse"
+    ],
+    "label": "Buildings"
+  },
+  {
+    "icons": [
+      "address-book",
+      "address-card",
+      "archive",
+      "balance-scale",
+      "birthday-cake",
+      "book",
+      "briefcase",
+      "bullhorn",
+      "bullseye",
+      "business-time",
+      "calculator",
+      "calendar",
+      "calendar-alt",
+      "certificate",
+      "chart-area",
+      "chart-bar",
+      "chart-pie",
+      "clipboard",
+      "columns",
+      "compass",
+      "copy",
+      "copyright",
+      "cut",
+      "edit",
+      "envelope",
+      "envelope-open",
+      "envelope-square",
+      "eraser",
+      "fax",
+      "file",
+      "file-alt",
+      "folder",
+      "folder-minus",
+      "folder-open",
+      "folder-plus",
+      "glasses",
+      "globe",
+      "highlighter",
+      "marker",
+      "paperclip",
+      "paste",
+      "pen",
+      "pen-alt",
+      "pen-fancy",
+      "pen-nib",
+      "pen-square",
+      "pencil-alt",
+      "percent",
+      "phone",
+      "phone-slash",
+      "phone-square",
+      "print",
+      "project-diagram",
+      "registered",
+      "save",
+      "sitemap",
+      "socks",
+      "sticky-note",
+      "stream",
+      "table",
+      "tag",
+      "tags",
+      "tasks",
+      "thumbtack",
+      "trademark",
+      "wallet"
+    ],
+    "label": "Business"
+  },
+  {
+    "icons": [
+      "binoculars",
+      "fire",
+      "fire-alt",
+      "first-aid",
+      "map",
+      "map-marked",
+      "map-marked-alt",
+      "map-signs",
+      "route",
+      "toilet-paper"
+    ],
+    "label": "Camping"
+  },
+  {
+    "icons": [
+      "dollar-sign",
+      "donate",
+      "gift",
+      "hand-holding-heart",
+      "hand-holding-usd",
+      "hands-helping",
+      "handshake",
+      "heart",
+      "leaf",
+      "parachute-box",
+      "piggy-bank",
+      "ribbon",
+      "seedling"
+    ],
+    "label": "Charity"
+  },
+  {
+    "icons": [
+      "comment",
+      "comment-alt",
+      "comment-dots",
+      "comment-medical",
+      "comment-slash",
+      "comments",
+      "frown",
+      "meh",
+      "poo",
+      "quote-left",
+      "quote-right",
+      "smile",
+      "sms",
+      "video-slash"
+    ],
+    "label": "Chat"
+  },
+  {
+    "icons": [
+      "chess",
+      "chess-bishop",
+      "chess-board",
+      "chess-king",
+      "chess-knight",
+      "chess-pawn",
+      "chess-queen",
+      "chess-rook",
+      "square-full"
+    ],
+    "label": "Chess"
+  },
+  {
+    "icons": [
+      "baby",
+      "baby-carriage",
+      "bath",
+      "cookie",
+      "cookie-bite",
+      "ice-cream",
+      "mitten",
+      "robot",
+      "shapes",
+      "snowman"
+    ],
+    "label": "Childhood"
+  },
+  {
+    "icons": [
+      "graduation-cap",
+      "hat-wizard",
+      "shoe-prints",
+      "tshirt",
+      "user-tie"
+    ],
+    "label": "Clothing"
+  },
+  {
+    "icons": [
+      "barcode",
+      "bug",
+      "code",
+      "code-branch",
+      "file-code",
+      "filter",
+      "fire-extinguisher",
+      "keyboard",
+      "laptop-code",
+      "microchip",
+      "qrcode",
+      "shield-alt",
+      "terminal",
+      "user-secret",
+      "window-close",
+      "window-maximize",
+      "window-minimize",
+      "window-restore"
+    ],
+    "label": "Code"
+  },
+  {
+    "icons": [
+      "at",
+      "bluetooth",
+      "bluetooth-b",
+      "chalkboard",
+      "inbox",
+      "language",
+      "mobile",
+      "mobile-alt",
+      "paper-plane",
+      "wifi"
+    ],
+    "label": "Communication"
+  },
+  {
+    "icons": [
+      "database",
+      "desktop",
+      "ethernet",
+      "hdd",
+      "laptop",
+      "memory",
+      "plug",
+      "power-off",
+      "satellite",
+      "satellite-dish",
+      "sd-card",
+      "server",
+      "sim-card",
+      "tablet",
+      "tablet-alt",
+      "tv"
+    ],
+    "label": "Computers"
+  },
+  {
+    "icons": [
+      "brush",
+      "drafting-compass",
+      "dumpster",
+      "hammer",
+      "hard-hat",
+      "paint-roller",
+      "pencil-ruler",
+      "ruler",
+      "ruler-combined",
+      "ruler-horizontal",
+      "ruler-vertical",
+      "screwdriver",
+      "toolbox",
+      "tools",
+      "wrench"
+    ],
+    "label": "Construction"
+  },
+  {
+    "icons": [
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "euro-sign",
+      "gg",
+      "gg-circle",
+      "hryvnia",
+      "lira-sign",
+      "money-bill",
+      "money-bill-alt",
+      "money-bill-wave",
+      "money-bill-wave-alt",
+      "money-check",
+      "money-check-alt",
+      "pound-sign",
+      "ruble-sign",
+      "rupee-sign",
+      "shekel-sign",
+      "tenge",
+      "won-sign",
+      "yen-sign"
+    ],
+    "label": "Currency"
+  },
+  {
+    "icons": [
+      "calendar-check",
+      "calendar-minus",
+      "calendar-plus",
+      "calendar-times",
+      "clock",
+      "hourglass",
+      "hourglass-end",
+      "hourglass-half",
+      "hourglass-start",
+      "stopwatch"
+    ],
+    "label": "Date & Time"
+  },
+  {
+    "icons": [
+      "adjust",
+      "bezier-curve",
+      "clone",
+      "crop",
+      "crop-alt",
+      "crosshairs",
+      "draw-polygon",
+      "eye",
+      "eye-dropper",
+      "eye-slash",
+      "fill",
+      "fill-drip",
+      "layer-group",
+      "magic",
+      "object-group",
+      "object-ungroup",
+      "paint-brush",
+      "palette",
+      "splotch",
+      "spray-can",
+      "stamp",
+      "swatchbook",
+      "tint",
+      "tint-slash",
+      "vector-square"
+    ],
+    "label": "Design"
+  },
+  {
+    "icons": [
+      "align-center",
+      "align-justify",
+      "align-left",
+      "align-right",
+      "bold",
+      "font",
+      "heading",
+      "i-cursor",
+      "indent",
+      "italic",
+      "link",
+      "list",
+      "list-alt",
+      "list-ol",
+      "list-ul",
+      "outdent",
+      "paragraph",
+      "strikethrough",
+      "subscript",
+      "superscript",
+      "th",
+      "th-large",
+      "th-list",
+      "trash",
+      "trash-alt",
+      "trash-restore",
+      "trash-restore-alt",
+      "underline",
+      "unlink"
+    ],
+    "label": "Editors"
+  },
+  {
+    "icons": [
+      "atom",
+      "award",
+      "book-open",
+      "book-reader",
+      "chalkboard-teacher",
+      "microscope",
+      "theater-masks",
+      "user-graduate"
+    ],
+    "label": "Education"
+  },
+  {
+    "icons": [
+      "angry",
+      "dizzy",
+      "flushed",
+      "frown-open",
+      "grimace",
+      "grin",
+      "grin-alt",
+      "grin-beam",
+      "grin-beam-sweat",
+      "grin-hearts",
+      "grin-squint",
+      "grin-squint-tears",
+      "grin-stars",
+      "grin-tears",
+      "grin-tongue",
+      "grin-tongue-squint",
+      "grin-tongue-wink",
+      "grin-wink",
+      "kiss",
+      "kiss-beam",
+      "kiss-wink-heart",
+      "laugh",
+      "laugh-beam",
+      "laugh-squint",
+      "laugh-wink",
+      "meh-blank",
+      "meh-rolling-eyes",
+      "sad-cry",
+      "sad-tear",
+      "smile-beam",
+      "smile-wink",
+      "surprise",
+      "tired"
+    ],
+    "label": "Emoji"
+  },
+  {
+    "icons": [
+      "battery-empty",
+      "battery-full",
+      "battery-half",
+      "battery-quarter",
+      "battery-three-quarters",
+      "burn",
+      "lightbulb",
+      "poop",
+      "solar-panel",
+      "sun",
+      "water"
+    ],
+    "label": "Energy"
+  },
+  {
+    "icons": [
+      "file-archive",
+      "file-excel",
+      "file-image",
+      "file-pdf",
+      "file-powerpoint",
+      "file-word"
+    ],
+    "label": "Files"
+  },
+  {
+    "icons": [
+      "cash-register",
+      "coins",
+      "comment-dollar",
+      "comments-dollar",
+      "credit-card",
+      "file-invoice",
+      "file-invoice-dollar",
+      "percentage",
+      "receipt"
+    ],
+    "label": "Finance"
+  },
+  {
+    "icons": [
+      "bicycle",
+      "heartbeat",
+      "running",
+      "skating",
+      "skiing",
+      "skiing-nordic",
+      "snowboarding",
+      "spa",
+      "swimmer",
+      "walking"
+    ],
+    "label": "Fitness"
+  },
+  {
+    "icons": [
+      "bacon",
+      "bone",
+      "bread-slice",
+      "candy-cane",
+      "carrot",
+      "cheese",
+      "cloud-meatball",
+      "egg",
+      "hamburger",
+      "hotdog",
+      "lemon",
+      "pepper-hot",
+      "pizza-slice",
+      "stroopwafel"
+    ],
+    "label": "Food"
+  },
+  {
+    "icons": [
+      "dice",
+      "dice-d20",
+      "dice-d6",
+      "dice-five",
+      "dice-four",
+      "dice-one",
+      "dice-six",
+      "dice-three",
+      "dice-two",
+      "gamepad",
+      "ghost",
+      "headset",
+      "nintendo-switch",
+      "playstation",
+      "puzzle-piece",
+      "steam",
+      "steam-square",
+      "steam-symbol",
+      "twitch",
+      "xbox"
+    ],
+    "label": "Games"
+  },
+  {
+    "icons": [
+      "acquisitions-incorporated",
+      "book-dead",
+      "critical-role",
+      "d-and-d",
+      "d-and-d-beyond",
+      "fantasy-flight-games",
+      "fist-raised",
+      "penny-arcade",
+      "ring",
+      "scroll",
+      "wizards-of-the-coast"
+    ],
+    "label": "Tabletop Gaming"
+  },
+  {
+    "icons": [
+      "genderless",
+      "mars",
+      "mars-double",
+      "mars-stroke",
+      "mars-stroke-h",
+      "mars-stroke-v",
+      "mercury",
+      "neuter",
+      "transgender",
+      "transgender-alt",
+      "venus",
+      "venus-double",
+      "venus-mars"
+    ],
+    "label": "Genders"
+  },
+  {
+    "icons": [
+      "broom",
+      "cloud-moon",
+      "mask"
+    ],
+    "label": "Halloween"
+  },
+  {
+    "icons": [
+      "allergies",
+      "hand-holding",
+      "hand-lizard",
+      "hand-middle-finger",
+      "hand-paper",
+      "hand-peace",
+      "hand-rock",
+      "hand-scissors",
+      "hand-spock",
+      "hands",
+      "praying-hands",
+      "thumbs-down",
+      "thumbs-up"
+    ],
+    "label": "Hands"
+  },
+  {
+    "icons": [
+      "h-square",
+      "medkit",
+      "plus-square",
+      "prescription",
+      "stethoscope",
+      "user-md"
+    ],
+    "label": "Health"
+  },
+  {
+    "icons": [
+      "gifts",
+      "holly-berry",
+      "sleigh"
+    ],
+    "label": "Holiday"
+  },
+  {
+    "icons": [
+      "bed",
+      "concierge-bell",
+      "door-closed",
+      "door-open",
+      "dumbbell",
+      "hot-tub",
+      "infinity",
+      "key",
+      "luggage-cart",
+      "shower",
+      "smoking",
+      "smoking-ban",
+      "snowflake",
+      "suitcase",
+      "suitcase-rolling",
+      "swimming-pool",
+      "umbrella-beach",
+      "utensils"
+    ],
+    "label": "Hotel"
+  },
+  {
+    "icons": [
+      "chair",
+      "couch"
+    ],
+    "label": "Household"
+  },
+  {
+    "icons": [
+      "bolt",
+      "camera",
+      "camera-retro",
+      "id-badge",
+      "id-card",
+      "image",
+      "images",
+      "portrait",
+      "sliders-h"
+    ],
+    "label": "Images"
+  },
+  {
+    "icons": [
+      "ban",
+      "bars",
+      "blog",
+      "check",
+      "check-circle",
+      "check-double",
+      "check-square",
+      "cloud",
+      "cog",
+      "cogs",
+      "dot-circle",
+      "ellipsis-h",
+      "ellipsis-v",
+      "file-download",
+      "file-export",
+      "file-import",
+      "file-upload",
+      "fingerprint",
+      "flag",
+      "flag-checkered",
+      "grip-horizontal",
+      "grip-lines",
+      "grip-lines-vertical",
+      "grip-vertical",
+      "hashtag",
+      "info",
+      "info-circle",
+      "medal",
+      "minus",
+      "minus-circle",
+      "minus-square",
+      "plus",
+      "plus-circle",
+      "question",
+      "search",
+      "search-minus",
+      "search-plus",
+      "share-alt",
+      "share-alt-square",
+      "signal",
+      "star",
+      "star-half",
+      "times",
+      "times-circle",
+      "toggle-off",
+      "toggle-on",
+      "trophy",
+      "user",
+      "user-alt",
+      "user-circle"
+    ],
+    "label": "Interfaces"
+  },
+  {
+    "icons": [
+      "box",
+      "boxes",
+      "clipboard-check",
+      "clipboard-list",
+      "dolly",
+      "dolly-flatbed",
+      "pallet",
+      "shipping-fast"
+    ],
+    "label": "Logistics"
+  },
+  {
+    "icons": [
+      "anchor",
+      "bomb",
+      "bookmark",
+      "directions",
+      "fighter-jet",
+      "gavel",
+      "helicopter",
+      "life-ring",
+      "magnet",
+      "male",
+      "map-marker",
+      "map-marker-alt",
+      "map-pin",
+      "newspaper",
+      "parking",
+      "plane",
+      "restroom",
+      "road",
+      "rocket",
+      "ship",
+      "shopping-bag",
+      "shopping-basket",
+      "shopping-cart",
+      "snowplow",
+      "street-view",
+      "subway",
+      "ticket-alt",
+      "traffic-light",
+      "train",
+      "tram",
+      "umbrella",
+      "utensil-spoon"
+    ],
+    "label": "Maps"
+  },
+  {
+    "icons": [
+      "dharmachakra"
+    ],
+    "label": "Maritime"
+  },
+  {
+    "icons": [
+      "ad",
+      "envelope-open-text",
+      "funnel-dollar",
+      "mail-bulk",
+      "poll",
+      "poll-h",
+      "search-dollar",
+      "search-location"
+    ],
+    "label": "Marketing"
+  },
+  {
+    "icons": [
+      "divide",
+      "equals",
+      "greater-than",
+      "greater-than-equal",
+      "less-than",
+      "less-than-equal",
+      "not-equal",
+      "square-root-alt"
+    ],
+    "label": "Mathematics"
+  },
+  {
+    "icons": [
+      "band-aid",
+      "biohazard",
+      "bong",
+      "book-medical",
+      "brain",
+      "briefcase-medical",
+      "cannabis",
+      "capsules",
+      "crutch",
+      "diagnoses",
+      "dna",
+      "file-medical",
+      "file-medical-alt",
+      "file-prescription",
+      "hospital-symbol",
+      "id-card-alt",
+      "joint",
+      "laptop-medical",
+      "mortar-pestle",
+      "notes-medical",
+      "pager",
+      "pills",
+      "prescription-bottle",
+      "prescription-bottle-alt",
+      "procedures",
+      "star-of-life",
+      "syringe",
+      "tablets",
+      "teeth",
+      "teeth-open",
+      "thermometer",
+      "tooth",
+      "user-nurse",
+      "vial",
+      "vials",
+      "weight",
+      "x-ray"
+    ],
+    "label": "Medical"
+  },
+  {
+    "icons": [
+      "box-open",
+      "people-carry",
+      "sign",
+      "tape",
+      "truck-loading",
+      "truck-moving"
+    ],
+    "label": "Moving"
+  },
+  {
+    "icons": [
+      "drum",
+      "drum-steelpan",
+      "guitar",
+      "headphones-alt",
+      "napster",
+      "soundcloud",
+      "spotify"
+    ],
+    "label": "Music"
+  },
+  {
+    "icons": [
+      "cube",
+      "cubes",
+      "digital-tachograph",
+      "futbol",
+      "gem",
+      "heart-broken",
+      "lock",
+      "lock-open",
+      "moon",
+      "space-shuttle",
+      "toilet",
+      "unlock",
+      "unlock-alt"
+    ],
+    "label": "Objects"
+  },
+  {
+    "icons": [
+      "alipay",
+      "amazon-pay",
+      "apple-pay",
+      "cart-plus",
+      "cc-amazon-pay",
+      "cc-amex",
+      "cc-apple-pay",
+      "cc-diners-club",
+      "cc-discover",
+      "cc-jcb",
+      "cc-mastercard",
+      "cc-paypal",
+      "cc-stripe",
+      "cc-visa",
+      "google-wallet",
+      "paypal",
+      "stripe",
+      "stripe-s"
+    ],
+    "label": "Payments & Shopping"
+  },
+  {
+    "icons": [
+      "democrat",
+      "flag-usa",
+      "person-booth",
+      "republican",
+      "vote-yea"
+    ],
+    "label": "Political"
+  },
+  {
+    "icons": [
+      "ankh",
+      "bible",
+      "cross",
+      "hamsa",
+      "hanukiah",
+      "haykal",
+      "jedi",
+      "journal-whills",
+      "khanda",
+      "menorah",
+      "om",
+      "pastafarianism",
+      "peace",
+      "pray",
+      "quran",
+      "star-and-crescent",
+      "star-of-david",
+      "torah",
+      "yin-yang"
+    ],
+    "label": "Religion"
+  },
+  {
+    "icons": [
+      "temperature-high",
+      "temperature-low"
+    ],
+    "label": "Science"
+  },
+  {
+    "icons": [
+      "galactic-republic",
+      "galactic-senate",
+      "jedi-order",
+      "meteor",
+      "old-republic",
+      "user-astronaut"
+    ],
+    "label": "Science Fiction"
+  },
+  {
+    "icons": [
+      "file-contract",
+      "file-signature",
+      "passport",
+      "user-lock",
+      "user-shield"
+    ],
+    "label": "Security"
+  },
+  {
+    "icons": [
+      "square"
+    ],
+    "label": "Shapes"
+  },
+  {
+    "icons": [
+      "user-friends",
+      "user-plus",
+      "users"
+    ],
+    "label": "Social"
+  },
+  {
+    "icons": [
+      "asterisk",
+      "circle-notch",
+      "compact-disc",
+      "slash",
+      "spinner"
+    ],
+    "label": "Spinners"
+  },
+  {
+    "icons": [
+      "baseball-ball",
+      "basketball-ball",
+      "bowling-ball",
+      "golf-ball",
+      "hockey-puck",
+      "quidditch",
+      "table-tennis",
+      "volleyball-ball"
+    ],
+    "label": "Sports"
+  },
+  {
+    "icons": [
+      "cloud-sun-rain",
+      "rainbow"
+    ],
+    "label": "Spring"
+  },
+  {
+    "icons": [
+      "calendar-day",
+      "calendar-week",
+      "star-half-alt",
+      "thermometer-empty",
+      "thermometer-full",
+      "thermometer-half",
+      "thermometer-quarter",
+      "thermometer-three-quarters",
+      "user-alt-slash",
+      "user-slash"
+    ],
+    "label": "Status"
+  },
+  {
+    "icons": [
+      "atlas",
+      "globe-africa",
+      "globe-americas",
+      "globe-asia",
+      "globe-europe",
+      "plane-arrival",
+      "plane-departure"
+    ],
+    "label": "Travel"
+  },
+  {
+    "icons": [
+      "child",
+      "female",
+      "user-check",
+      "user-clock",
+      "user-cog",
+      "user-edit",
+      "user-injured",
+      "user-minus",
+      "user-ninja",
+      "user-tag",
+      "user-times",
+      "users-cog"
+    ],
+    "label": "Users & People"
+  },
+  {
+    "icons": [
+      "cloud-moon-rain",
+      "cloud-rain",
+      "cloud-showers-heavy",
+      "poo-storm",
+      "smog"
+    ],
+    "label": "Weather"
+  },
+  {
+    "icons": [
+      "icicles"
+    ],
+    "label": "Winter"
+  }
+]

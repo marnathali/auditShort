@@ -1,0 +1,76 @@
+<div id="driveSaveModal" class="w3-modal" style="z-index:4">
+
+</div>
+<div class="trytopnav">
+  <div class="w3-bar" style="overflow:auto">
+    <h1><%= title %></h1>
+  </div>
+
+</div>
+
+<div id="container" style="display: inline-flex;flex-direction: row;flex-wrap: wrap;background-color: white;padding: 0px;border: gray 2px solid;width: 100%;">
+<div class="url-container" style="width:100%; padding:5px;background-color:#5f5f7e;">
+<div class="status-url" style="margin-top: 5px; margin-bottom: 5px;">
+
+
+</div>
+  <label class="sr-only" for="inlineFormInputGroupUsername2">Username</label>
+    <div class="input-group mb-2 mr-sm-2">
+      <div class="input-group-prepend">
+        <div class="input-group-text">Url</div>
+      </div>
+      <input type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Username">
+    </div>
+</div>
+  <%- include ./partials/questionsform %>
+  <%- include ./partials/iframeproduct %>
+
+</div>
+
+
+<script>
+
+var onAuthorize = function() {
+
+    Trello.members.get("me", function(member){
+
+        sessionStorage.setItem('usuario',member.fullName );
+
+        Trello.get("members/me/cards", function(cards) {
+            var cards_me = [];
+            $.each(cards, function(ix, card) {
+                cards_me.push(card);
+            });
+            console.log(cards_me);
+            sessionStorage.setItem('cards', cards_me);
+        });
+    });
+
+};
+
+var updateLoggedIn = function() {
+    var isLoggedIn = Trello.authorized();
+
+};
+
+var logout = function() {
+    Trello.deauthorize();
+};
+
+Trello.authorize({
+    interactive:false,
+    success: onAuthorize
+});
+
+$("#connectLink")
+.click(function(){
+    Trello.authorize({
+        type: "popup",
+        success: onAuthorize
+    })
+});
+
+$("#disconnect").click(logout);
+
+
+</script>

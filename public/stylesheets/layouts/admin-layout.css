@@ -1,0 +1,106 @@
+/* CUSTOM GENERAL CSS */
+.column-back-page{
+  position: relative;
+}
+.column-back-page .container-back-page{
+  position: relative;
+  top: calc( 50% - 6.5px );
+}
+textarea{
+  min-height: 85px;
+}
+.select-country, .select-code-phone{
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+.select-icon{
+  line-height: 1.5;
+  font-size: 20px;
+  position: relative;
+  bottom: 4px;
+}
+.select-icon span{
+  font-size: 0.9rem;
+  padding-left: 6px;
+  position: relative;
+  bottom: 2px;
+}
+.select-icon svg{
+  font-size: 20px;
+  width: 1em !important;
+  color: #495057;
+}
+.wrapper-content {
+  padding: 20px 10px 20px;
+}
+.metismenu .arrow {
+  float: right;
+  line-height: 1.5;
+  font-size: 16px;
+  width: 1em;
+}
+/* CUSTOM SELECT2 */
+
+.select2-container--open .select2-dropdown--above{
+  min-width: 375px !important;
+}
+.select2-code-phone + .select2-container{
+  width: 120px !important;
+}
+.select2-container--default .select2-selection--single{
+  border-radius: 0px !important;
+  border: 1px solid #e5e6e7 !important;
+  padding: 6px 12px;
+  height: 35.2px !important;
+  line-height: 1.5 !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+  line-height: initial !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__placeholder{
+  line-height: 1.5;
+}
+.select2-countries + .select2-container--default .select2-selection--single .select2-selection__arrow,
+.select2-icons + .select2-container--default .select2-selection--single .select2-selection__arrow{
+  height: 34px !important;
+  border-left: 1px solid #e5e6e7 !important;
+  width: 38px !important;
+}
+.select2-code-phone + .select2-container--default .select2-selection--single .select2-selection__arrow{
+  height: 34px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__clear{
+  font-size: 16px;
+}
+.select2-countries + .select2-container .select2-selection--single .select2-selection__rendered,
+.select2-icons + .select2-container .select2-selection--single .select2-selection__rendered{
+  padding-left: 0px !important;
+  padding-right: 38px !important;
+}
+.select2-code-phone + .select2-container .select2-selection--single .select2-selection__rendered{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  font-size: 0.9rem;
+  line-height: 1.5 !important;
+}
+.select2-container--default .select2-results > .select2-results__options{
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* CSUTOM AWESOME BOOTSTRAP CHECKBOX */
+
+.radio{
+  position: relative;
+  top: 6px;
+}
+.radio label::before{
+  width: 20px !important;
+  height: 20px !important;
+}
+.radio label::after{
+  width: 12px !important;
+  height: 12px !important;
+  left: 4px !important;
+  top: 4px !important;
+}
