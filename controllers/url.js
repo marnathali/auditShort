@@ -44,7 +44,29 @@ exports.allUrl = (req, res) => {
   })
 };
 
-exports.updateUrl = (req, res) =>{
+exports.mainData = (req, res,  next) => {
+
+  var query = [];
+  console.log(query);
+  Url.find({}, (err, urls) =>{
+    if (err) return res.status(500).send({message: `Ocurrio un problema`});
+    if(!urls) return res.status(404).send({message: `Not found`});
+    console.log(urls);
+    for(var i =0; i <  urls.length; i++ ){
+              if(urls[i].status == 0){
+                    query.push(urls[i]);
+                      break;
+              }
+    }
+    res.send(query);
+    next();
+
+  })
+};
+
+
+
+exports.updateUrl = (req, res) => {
   let objId = req.params.id;
   let updated = req.body;
 

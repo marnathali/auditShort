@@ -16,51 +16,22 @@
       <div class="input-group-prepend">
         <div class="input-group-text">Url</div>
       </div>
-      <input type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Username">
+      <input type="text" class="form-control" id="inlineFormInputGroupUsername2" value="http://cata1og.com">
     </div>
 </div>
   <!-- FORM DE PREGUNTAS -->
   <div id="textareacontainer" style="width:50%;">
-    
+
             <h3>Responde a las siguientes preguntas</h3>
+              <div id="questionformwrapper" >
 
-      <div id="questionformwrapper" style="height:450px; width: 100%; padding: 10px; display:none;">
-
-            <% if(questions.length>0) { %>
-              <% for(var i=0; i<questions.length;i++) { %>
-                  <form id="codeForm" autocomplete="off">
-                  <div class="container-question" style="border: 1px solid skyblue; border-radius: 4px;width: 100%;text-align: center;padding: 5px; margin-top: 10px;">
-                    <div class="form-group">
-                        <label for="formGroupExampleInput">
-                            <%= questions[i].question%>
-                         </label>
-
-                    </div>
-                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                    <label class="btn btn-secondary active">
-                      <input value="SI" type="radio" name="options" id="option1" autocomplete="off" checked> Si
-                    </label>
-                    <label class="btn btn-secondary">
-                      <input value="NO" type="radio" name="options" id="option2" autocomplete="off"> No
-                    </label>
-                    </div>
-                  </div>
-                  </form>
-              <% } %>
-          <% } else { %>
-            <div>No questions found.</div>
-          <% } %>
-
-       </div>
-
-       <div class="One-question">
-
-        </div>
-
+              </div>
   </div>
 
   <!-- IFRAME -->
+
   <div id="iframecontainer" style="width:50%;">
+
     <div id="iframe">
       <div id="iframewrapper " style="height: 450px; width: 100%;">
         <iframe width="100%" height="100%" src="http://cata1og.com" ></iframe>
@@ -71,7 +42,104 @@
 
 </div>
 
+
+<div id="questions" style="display:none;">
+
+<% if(questions.length>0) { %>
+
+  <% for(var i=0; i<questions.length;i++) { %>
+      <form id="codeForm-<%= i%>" autocomplete="off">
+      <div class="container-question" >
+        <div class="form-group">
+            <label for="formGroupExampleInput">
+                <%= questions[i].question%>
+             </label>
+
+        </div>
+        <div class="group-answer-icons">
+        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+        <label class="btn btn-primary active">
+          <input class="btn-answer" value="true" type="radio" name="options" id="option1" autocomplete="off" checked> Si
+        </label>
+        <label class="btn btn-danger">
+          <input class="btn-answer" value="false" type="radio" name="options" id="option2" autocomplete="off"> No
+        </label>
+
+
+        </div>
+
+        <div class="form-result-icon" >
+            <i class="far fa-grin-beam" style="display: none;"></i>
+            <i class="far fa-frown" style="display: none;"></i>
+       </div>
+        </div>
+
+
+
+
+      </div>
+      </form>
+  <% } %>
+<% } else { %>
+<div>No questions found.</div>
+<% } %>
+
+</div>
+
+
+
 <script>
-    var preguntas = <% questions%>
-    console.log(preguntas);
+   var preguntas = <%-JSON.stringify(questions)%>;
+   console.log(preguntas);
+   var formularios = $('form');
+   console.log(formularios);
+   $('#questionformwrapper').html(formularios[0]);
+   var nro_question = 0;
+   var preguntas_send = [];
+
+$('label.btn').on('click', function() {
+  console.log('item_question'+nro_question);
+  console.log('formularios.length'+formularios.length);
+  if(nro_question < formularios.length ){
+
+    var rsp = $(this);
+    var btn = rsp[0].firstElementChild;
+    if(btn.value == 'true'){
+      console.log('here');
+        $('svg.fa-frown').css('display', 'none');
+        $('svg.fa-grin-beam').css('display', 'block');
+        $('svg.fa-grin-beam').css('color', 'green');
+
+     }else{
+         $('svg.fa-grin-beam').css('display', 'none');
+         $('svg.fa-frown').css('display', 'block');
+         $('svg.fa-frown').css('color', 'red');
+
+      }
+
+      setTimeout(function(){
+        console.log('item_question'+nro_question);
+        $('svg.fa-grin-beam').css('display', 'none');
+        $('svg.fa-frown').css('display', 'none');
+
+        var q = { question:preguntas[nro_question] ,
+                  answer:rsp[0].firstElementChild.value
+                }
+        preguntas_send.push(q);
+        console.log(preguntas_send);
+        nro_question++;
+        console.log('item_question'+nro_question);
+        $('#questionformwrapper').empty();
+        $('#questionformwrapper').html(formularios[nro_question]);
+
+
+      }, 2000);
+
+  }else{
+
+    $('#questionformwrapper').html('<div>NEXT URL</div>');
+  }
+
+
+ });
 </script>

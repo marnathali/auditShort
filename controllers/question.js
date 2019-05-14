@@ -32,11 +32,7 @@ questionController.allQuestion = (req, res) => {
     if (err) return res.status(500).send({message: `Ocurrio un problema`});
     if(!questions) return res.status(404).send({message: `Not found`});
     res.send(questions);
-    /*res.render("../views/pages/main",
-      {  title: 'Audit Products',
-         questions: questions
-      }
-    );*/
+
   })
 };
 
